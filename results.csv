@@ -1,0 +1,1988 @@
+,team,opponent,date,result,score,opp_score
+0,Villanova,Lafayette,2016-11-11,W,88,48
+1,Villanova,Purdue,2016-11-14,W,79,76
+2,Villanova,Western Michigan,2016-11-17,W,76,65
+3,Villanova,Wake Forest,2016-11-18,W,96,77
+4,Villanova,Central Florida,2016-11-20,W,67,57
+5,Villanova,College of Charleston,2016-11-23,W,63,47
+6,Villanova,Pennsylvania,2016-11-29,W,82,57
+7,Villanova,Saint Joseph's,2016-12-03,W,88,57
+8,Villanova,La Salle,2016-12-06,W,89,79
+9,Villanova,Notre Dame,2016-12-10,W,74,66
+10,Villanova,Temple,2016-12-13,W,78,57
+11,Villanova,American,2016-12-21,W,90,48
+12,Villanova,DePaul,2016-12-28,W,68,65
+13,Villanova,Creighton,2016-12-31,W,80,70
+14,Villanova,Butler,2017-01-04,L,58,66
+15,Villanova,Marquette,2017-01-07,W,93,81
+16,Villanova,Xavier,2017-01-10,W,79,54
+17,Villanova,St. John's (NY),2017-01-14,W,70,57
+18,Villanova,Seton Hall,2017-01-16,W,76,46
+19,Villanova,Providence,2017-01-21,W,78,68
+20,Villanova,Marquette,2017-01-24,L,72,74
+21,Villanova,Virginia,2017-01-29,W,61,59
+22,Villanova,Providence,2017-02-01,W,66,57
+23,Villanova,St. John's (NY),2017-02-04,W,92,79
+24,Villanova,Georgetown,2017-02-07,W,75,64
+25,Villanova,Xavier,2017-02-11,W,73,57
+26,Villanova,DePaul,2017-02-13,W,75,62
+27,Villanova,Seton Hall,2017-02-18,W,92,70
+28,Villanova,Butler,2017-02-22,L,66,74
+29,Villanova,Creighton,2017-02-25,W,79,63
+30,Villanova,Georgetown,2017-03-04,W,81,55
+31,Villanova,St. John's (NY),2017-03-09,W,108,67
+32,Villanova,Seton Hall,2017-03-10,W,55,53
+33,Wisconsin,Central Arkansas,2016-11-11,W,79,47
+34,Wisconsin,Creighton,2016-11-15,L,67,79
+35,Wisconsin,Chicago State,2016-11-17,W,69,51
+36,Wisconsin,Tennessee,2016-11-21,W,74,62
+37,Wisconsin,Georgetown,2016-11-22,W,73,57
+38,Wisconsin,North Carolina,2016-11-23,L,56,71
+39,Wisconsin,Prairie View,2016-11-27,W,95,50
+40,Wisconsin,Syracuse,2016-11-29,W,77,60
+41,Wisconsin,Oklahoma,2016-12-03,W,90,70
+42,Wisconsin,Idaho State,2016-12-07,W,78,44
+43,Wisconsin,Marquette,2016-12-10,W,93,84
+44,Wisconsin,Green Bay,2016-12-14,W,73,59
+45,Wisconsin,Florida A&M,2016-12-23,W,90,37
+46,Wisconsin,Rutgers,2016-12-27,W,72,52
+47,Wisconsin,Indiana,2017-01-03,W,75,68
+48,Wisconsin,Purdue,2017-01-08,L,55,66
+49,Wisconsin,Ohio State,2017-01-12,W,89,66
+50,Wisconsin,Michigan,2017-01-17,W,68,64
+51,Wisconsin,Minnesota,2017-01-21,W,78,76
+52,Wisconsin,Penn State,2017-01-24,W,82,55
+53,Wisconsin,Rutgers,2017-01-28,W,61,54
+54,Wisconsin,Illinois,2017-01-31,W,57,43
+55,Wisconsin,Indiana,2017-02-05,W,65,60
+56,Wisconsin,Nebraska,2017-02-09,W,70,69
+57,Wisconsin,Northwestern,2017-02-12,L,59,66
+58,Wisconsin,Michigan,2017-02-16,L,58,64
+59,Wisconsin,Maryland,2017-02-19,W,71,60
+60,Wisconsin,Ohio State,2017-02-23,L,73,83
+61,Wisconsin,Michigan State,2017-02-26,L,74,84
+62,Wisconsin,Iowa,2017-03-02,L,57,59
+63,Wisconsin,Minnesota,2017-03-05,W,66,49
+64,Wisconsin,Indiana,2017-03-10,W,70,60
+65,Wisconsin,Northwestern,2017-03-11,W,76,48
+66,Wisconsin,Michigan,2017-03-12,L,56,71
+67,Virginia Tech,Maine,2016-11-11,W,80,67
+68,Virginia Tech,High Point,2016-11-15,W,99,73
+69,Virginia Tech,Virginia Military Institute,2016-11-19,W,88,72
+70,Virginia Tech,New Mexico,2016-11-24,W,92,72
+71,Virginia Tech,Texas A&M,2016-11-25,L,65,68
+72,Virginia Tech,Nebraska,2016-11-27,W,66,53
+73,Virginia Tech,Michigan,2016-11-30,W,73,70
+74,Virginia Tech,Maryland-Eastern Shore,2016-12-07,W,75,59
+75,Virginia Tech,Mississippi,2016-12-11,W,80,75
+76,Virginia Tech,Citadel,2016-12-17,W,113,71
+77,Virginia Tech,Charleston Southern,2016-12-20,W,87,59
+78,Virginia Tech,Maryland-Baltimore County,2016-12-28,W,87,70
+79,Virginia Tech,Duke,2016-12-31,W,89,75
+80,Virginia Tech,North Carolina State,2017-01-04,L,78,104
+81,Virginia Tech,Florida State,2017-01-07,L,78,93
+82,Virginia Tech,Syracuse,2017-01-10,W,83,73
+83,Virginia Tech,Notre Dame,2017-01-14,L,71,76
+84,Virginia Tech,Georgia Tech,2017-01-18,W,62,61
+85,Virginia Tech,Clemson,2017-01-22,W,82,81
+86,Virginia Tech,North Carolina,2017-01-26,L,72,91
+87,Virginia Tech,Boston College,2017-01-29,W,85,79
+88,Virginia Tech,Virginia,2017-02-01,L,48,71
+89,Virginia Tech,Miami (FL),2017-02-08,L,68,74
+90,Virginia Tech,Virginia,2017-02-12,W,80,78
+91,Virginia Tech,Pittsburgh,2017-02-14,W,66,63
+92,Virginia Tech,Louisville,2017-02-18,L,90,94
+93,Virginia Tech,Clemson,2017-02-21,W,71,70
+94,Virginia Tech,Boston College,2017-02-25,W,91,75
+95,Virginia Tech,Miami (FL),2017-02-27,W,66,61
+96,Virginia Tech,Wake Forest,2017-03-04,L,84,89
+97,Virginia Tech,Wake Forest,2017-03-08,W,99,90
+98,Virginia Tech,Florida State,2017-03-09,L,68,74
+99,Virginia,North Carolina-Greensboro,2016-11-11,W,76,51
+100,Virginia,St. Francis (NY),2016-11-15,W,72,32
+101,Virginia,Yale,2016-11-20,W,62,38
+102,Virginia,Grambling,2016-11-22,W,90,34
+103,Virginia,Iowa,2016-11-25,W,74,41
+104,Virginia,Providence,2016-11-26,W,63,52
+105,Virginia,Ohio State,2016-11-30,W,63,61
+106,Virginia,West Virginia,2016-12-03,L,57,66
+107,Virginia,East Carolina,2016-12-06,W,76,53
+108,Virginia,Robert Morris,2016-12-17,W,79,39
+109,Virginia,University of California,2016-12-21,W,56,52
+110,Virginia,Louisville,2016-12-28,W,61,53
+111,Virginia,Florida State,2016-12-31,L,58,60
+112,Virginia,Pittsburgh,2017-01-04,L,76,88
+113,Virginia,Wake Forest,2017-01-08,W,79,62
+114,Virginia,Clemson,2017-01-14,W,77,73
+115,Virginia,Boston College,2017-01-18,W,71,54
+116,Virginia,Georgia Tech,2017-01-21,W,62,49
+117,Virginia,Notre Dame,2017-01-24,W,71,54
+118,Virginia,Villanova,2017-01-29,L,59,61
+119,Virginia,Virginia Tech,2017-02-01,W,71,48
+120,Virginia,Syracuse,2017-02-04,L,62,66
+121,Virginia,Louisville,2017-02-06,W,71,55
+122,Virginia,Virginia Tech,2017-02-12,L,78,80
+123,Virginia,Duke,2017-02-15,L,55,65
+124,Virginia,North Carolina,2017-02-18,L,41,65
+125,Virginia,Miami (FL),2017-02-20,L,48,54
+126,Virginia,North Carolina State,2017-02-25,W,70,55
+127,Virginia,North Carolina,2017-02-27,W,53,43
+128,Virginia,Pittsburgh,2017-03-04,W,67,42
+129,Virginia,Pittsburgh,2017-03-08,W,75,63
+130,Virginia,Notre Dame,2017-03-09,L,58,71
+131,North Carolina-Wilmington,Claflin,2016-11-11,W,110,64
+132,North Carolina-Wilmington,Eastern Kentucky,2016-11-14,W,78,69
+133,North Carolina-Wilmington,East Tennessee State,2016-11-20,W,68,59
+134,North Carolina-Wilmington,Middle Tennessee,2016-11-25,L,63,68
+135,North Carolina-Wilmington,Evansville,2016-11-26,W,65,62
+136,North Carolina-Wilmington,Toledo,2016-11-27,W,102,77
+137,North Carolina-Wilmington,Western Michigan,2016-11-30,W,97,92
+138,North Carolina-Wilmington,Pfeiffer,2016-12-03,W,126,113
+139,North Carolina-Wilmington,St. Bonaventure,2016-12-10,W,81,80
+140,North Carolina-Wilmington,Campbell,2016-12-14,W,96,75
+141,North Carolina-Wilmington,Radford,2016-12-17,W,100,64
+142,North Carolina-Wilmington,East Carolina,2016-12-20,W,81,71
+143,North Carolina-Wilmington,Clemson,2016-12-28,L,73,87
+144,North Carolina-Wilmington,Towson,2016-12-31,W,76,67
+145,North Carolina-Wilmington,Elon,2017-01-02,W,79,63
+146,North Carolina-Wilmington,Drexel,2017-01-05,W,90,72
+147,North Carolina-Wilmington,Delaware,2017-01-07,W,91,81
+148,North Carolina-Wilmington,William & Mary,2017-01-12,W,101,77
+149,North Carolina-Wilmington,Hofstra,2017-01-14,W,84,76
+150,North Carolina-Wilmington,College of Charleston,2017-01-19,W,65,59
+151,North Carolina-Wilmington,Drexel,2017-01-21,W,87,74
+152,North Carolina-Wilmington,James Madison,2017-01-26,W,87,76
+153,North Carolina-Wilmington,William & Mary,2017-01-28,L,78,96
+154,North Carolina-Wilmington,College of Charleston,2017-02-02,L,66,67
+155,North Carolina-Wilmington,Delaware,2017-02-04,W,108,80
+156,North Carolina-Wilmington,James Madison,2017-02-09,W,88,73
+157,North Carolina-Wilmington,Elon,2017-02-11,L,76,77
+158,North Carolina-Wilmington,Northeastern,2017-02-16,W,66,65
+159,North Carolina-Wilmington,Hofstra,2017-02-18,W,83,76
+160,North Carolina-Wilmington,Towson,2017-02-23,W,83,78
+161,North Carolina-Wilmington,Northeastern,2017-02-25,W,74,65
+162,North Carolina-Wilmington,Delaware,2017-03-04,W,91,82
+163,North Carolina-Wilmington,William & Mary,2017-03-05,W,105,94
+164,North Carolina-Wilmington,College of Charleston,2017-03-06,W,78,69
+165,Florida,Florida Gulf Coast,2016-11-11,W,80,59
+166,Florida,Mercer,2016-11-13,W,76,54
+167,Florida,St. Bonaventure,2016-11-17,W,73,66
+168,Florida,Belmont,2016-11-21,W,78,61
+169,Florida,Seton Hall,2016-11-24,W,81,76
+170,Florida,Gonzaga,2016-11-25,L,72,77
+171,Florida,Miami (FL),2016-11-27,W,65,56
+172,Florida,North Florida,2016-12-01,W,91,60
+173,Florida,Duke,2016-12-06,L,74,84
+174,Florida,Florida State,2016-12-11,L,78,83
+175,Florida,Charlotte,2016-12-17,W,87,46
+176,Florida,Arkansas-Little Rock,2016-12-21,W,94,71
+177,Florida,Arkansas,2016-12-29,W,81,72
+178,Florida,Mississippi,2017-01-03,W,70,63
+179,Florida,Tennessee,2017-01-07,W,83,70
+180,Florida,Alabama,2017-01-10,W,80,67
+181,Florida,Georgia,2017-01-14,W,80,76
+182,Florida,South Carolina,2017-01-18,L,53,57
+183,Florida,Vanderbilt,2017-01-21,L,66,68
+184,Florida,Louisiana State,2017-01-25,W,106,71
+185,Florida,Oklahoma,2017-01-28,W,84,52
+186,Florida,Missouri,2017-02-02,W,93,54
+187,Florida,Kentucky,2017-02-04,W,88,66
+188,Florida,Georgia,2017-02-07,W,72,60
+189,Florida,Texas A&M,2017-02-11,W,71,62
+190,Florida,Auburn,2017-02-14,W,114,95
+191,Florida,Mississippi State,2017-02-18,W,57,52
+192,Florida,South Carolina,2017-02-21,W,81,66
+193,Florida,Kentucky,2017-02-25,L,66,76
+194,Florida,Arkansas,2017-03-01,W,78,65
+195,Florida,Vanderbilt,2017-03-04,L,71,73
+196,Florida,Vanderbilt,2017-03-10,L,62,72
+197,ETSU,Fordham,2016-11-11,W,96,59
+198,ETSU,Detroit Mercy,2016-11-14,W,107,78
+199,ETSU,North Carolina-Wilmington,2016-11-20,L,59,68
+200,ETSU,Milwaukee,2016-11-25,W,86,62
+201,ETSU,South Dakota State,2016-11-26,W,71,59
+202,ETSU,UC-Irvine,2016-11-27,W,72,66
+203,ETSU,Lees-McRae,2016-12-01,W,85,80
+204,ETSU,Limestone,2016-12-04,W,85,57
+205,ETSU,Dayton,2016-12-10,L,61,75
+206,ETSU,Mississippi State,2016-12-14,W,67,65
+207,ETSU,Morehead State,2016-12-17,W,78,68
+208,ETSU,Tennessee,2016-12-22,L,68,72
+209,ETSU,Savannah State,2016-12-29,W,92,71
+210,ETSU,Virginia Military Institute,2016-12-31,W,102,75
+211,ETSU,Citadel,2017-01-05,W,115,71
+212,ETSU,Mercer,2017-01-07,W,67,58
+213,ETSU,North Carolina-Greensboro,2017-01-12,L,79,83
+214,ETSU,Western Carolina,2017-01-14,W,75,52
+215,ETSU,Furman,2017-01-19,L,62,75
+216,ETSU,Wofford,2017-01-22,W,79,72
+217,ETSU,Samford,2017-01-25,W,96,86
+218,ETSU,Chattanooga,2017-01-28,W,76,71
+219,ETSU,Virginia Military Institute,2017-02-02,W,81,71
+220,ETSU,Wofford,2017-02-06,L,76,79
+221,ETSU,Citadel,2017-02-09,W,90,69
+222,ETSU,Mercer,2017-02-11,W,88,71
+223,ETSU,Samford,2017-02-15,W,79,77
+224,ETSU,Chattanooga,2017-02-18,W,65,51
+225,ETSU,Furman,2017-02-22,W,93,81
+226,ETSU,Western Carolina,2017-02-25,W,68,52
+227,ETSU,North Carolina-Greensboro,2017-02-27,L,66,72
+228,ETSU,Mercer,2017-03-04,W,73,66
+229,ETSU,Samford,2017-03-05,W,81,72
+230,ETSU,North Carolina-Greensboro,2017-03-06,W,79,74
+231,SMU,Gardner-Webb,2016-11-11,W,72,44
+232,SMU,Eastern Michigan,2016-11-13,W,91,64
+233,SMU,Pittsburgh,2016-11-17,W,76,67
+234,SMU,Michigan,2016-11-18,L,54,76
+235,SMU,UC-Santa Barbara,2016-11-22,W,84,57
+236,SMU,Southern California,2016-11-25,L,73,78
+237,SMU,Boise State,2016-11-30,L,62,71
+238,SMU,Cal State Bakersfield,2016-12-02,W,49,43
+239,SMU,Delaware State,2016-12-04,W,74,60
+240,SMU,Texas Christian,2016-12-07,W,74,59
+241,SMU,McNeese State,2016-12-14,W,92,56
+242,SMU,Stanford,2016-12-19,W,72,49
+243,SMU,Albany (NY),2016-12-20,W,71,53
+244,SMU,Memphis,2016-12-27,W,58,54
+245,SMU,East Carolina,2016-12-31,W,75,44
+246,SMU,Temple,2017-01-04,W,79,65
+247,SMU,South Florida,2017-01-07,W,84,65
+248,SMU,Cincinnati,2017-01-12,L,64,66
+249,SMU,Tulane,2017-01-15,W,80,64
+250,SMU,Connecticut,2017-01-19,W,69,49
+251,SMU,Houston,2017-01-21,W,85,64
+252,SMU,Central Florida,2017-01-25,W,65,60
+253,SMU,East Carolina,2017-02-01,W,86,46
+254,SMU,Tulsa,2017-02-04,W,76,53
+255,SMU,Temple,2017-02-09,W,66,50
+256,SMU,Cincinnati,2017-02-12,W,60,51
+257,SMU,Tulane,2017-02-15,W,80,75
+258,SMU,Houston,2017-02-18,W,76,66
+259,SMU,Connecticut,2017-02-25,W,69,61
+260,SMU,Tulsa,2017-03-02,W,93,70
+261,SMU,Memphis,2017-03-04,W,103,62
+262,SMU,East Carolina,2017-03-10,W,81,77
+263,SMU,Central Florida,2017-03-11,W,70,59
+264,Baylor,Oral Roberts,2016-11-11,W,76,61
+265,Baylor,Oregon,2016-11-15,W,66,49
+266,Baylor,Florida Gulf Coast,2016-11-18,W,81,72
+267,Baylor,Virginia Commonwealth,2016-11-23,W,71,63
+268,Baylor,Michigan State,2016-11-24,W,73,58
+269,Baylor,Louisville,2016-11-25,W,66,63
+270,Baylor,Sam Houston State,2016-11-30,W,79,45
+271,Baylor,Xavier,2016-12-03,W,76,61
+272,Baylor,Southern,2016-12-14,W,89,59
+273,Baylor,Jackson State,2016-12-17,W,82,57
+274,Baylor,John Brown,2016-12-18,W,107,53
+275,Baylor,Texas Southern,2016-12-21,W,89,63
+276,Baylor,Oklahoma,2016-12-30,W,76,50
+277,Baylor,Iowa State,2017-01-04,W,65,63
+278,Baylor,Oklahoma State,2017-01-07,W,61,57
+279,Baylor,West Virginia,2017-01-10,L,68,89
+280,Baylor,Kansas State,2017-01-14,W,77,68
+281,Baylor,Texas,2017-01-17,W,74,64
+282,Baylor,Texas Christian,2017-01-21,W,62,53
+283,Baylor,Texas Tech,2017-01-25,W,65,61
+284,Baylor,Mississippi,2017-01-28,W,78,75
+285,Baylor,Kansas,2017-02-01,L,68,73
+286,Baylor,Kansas State,2017-02-04,L,54,56
+287,Baylor,Oklahoma State,2017-02-08,W,72,69
+288,Baylor,Texas Christian,2017-02-11,W,70,52
+289,Baylor,Texas Tech,2017-02-13,L,78,84
+290,Baylor,Kansas,2017-02-18,L,65,67
+291,Baylor,Oklahoma,2017-02-21,W,60,54
+292,Baylor,Iowa State,2017-02-25,L,69,72
+293,Baylor,West Virginia,2017-02-27,W,71,62
+294,Baylor,Texas,2017-03-04,W,75,64
+295,Baylor,Kansas State,2017-03-09,L,64,70
+296,New Mexico State,Arizona Christian,2016-11-11,W,100,52
+297,New Mexico State,Colorado State,2016-11-13,L,61,64
+298,New Mexico State,Samford,2016-11-16,W,58,48
+299,New Mexico State,New Mexico,2016-11-18,L,59,72
+300,New Mexico State,Bethune-Cookman,2016-11-20,W,89,73
+301,New Mexico State,Nicholls State,2016-11-22,W,86,74
+302,New Mexico State,San Diego,2016-11-26,W,56,51
+303,New Mexico State,Air Force,2016-11-30,W,78,70
+304,New Mexico State,Long Beach State,2016-12-03,W,93,85
+305,New Mexico State,New Mexico,2016-12-10,W,84,71
+306,New Mexico State,Texas-El Paso,2016-12-13,W,79,68
+307,New Mexico State,Arizona State,2016-12-17,W,81,70
+308,New Mexico State,UC-Irvine,2016-12-19,W,85,79
+309,New Mexico State,Eastern New Mexico,2016-12-27,W,84,50
+310,New Mexico State,Texas-El Paso,2016-12-30,W,79,70
+311,New Mexico State,Missouri-Kansas City,2017-01-05,W,77,64
+312,New Mexico State,Chicago State,2017-01-07,W,78,62
+313,New Mexico State,Grand Canyon,2017-01-12,W,81,69
+314,New Mexico State,Cal State Bakersfield,2017-01-14,W,63,58
+315,New Mexico State,Missouri-Kansas City,2017-01-21,W,94,71
+316,New Mexico State,Seattle,2017-01-26,W,71,56
+317,New Mexico State,Utah Valley,2017-01-28,W,74,69
+318,New Mexico State,Northern New Mexico,2017-01-30,W,98,75
+319,New Mexico State,Chicago State,2017-02-04,W,86,51
+320,New Mexico State,Cal State Bakersfield,2017-02-09,L,53,72
+321,New Mexico State,Grand Canyon,2017-02-11,L,71,83
+322,New Mexico State,Texas-Rio Grande Valley,2017-02-18,W,107,101
+323,New Mexico State,Utah Valley,2017-02-23,L,72,84
+324,New Mexico State,Seattle,2017-02-25,W,86,53
+325,New Mexico State,Texas-Rio Grande Valley,2017-03-04,W,107,81
+326,New Mexico State,Chicago State,2017-03-09,W,67,53
+327,New Mexico State,Missouri-Kansas City,2017-03-10,W,78,60
+328,New Mexico State,Cal State Bakersfield,2017-03-11,W,70,60
+329,South Carolina,Louisiana Tech,2016-11-11,W,85,76
+330,South Carolina,Holy Cross,2016-11-13,W,81,49
+331,South Carolina,Monmouth,2016-11-15,W,70,69
+332,South Carolina,South Carolina State,2016-11-18,W,92,50
+333,South Carolina,Michigan,2016-11-23,W,61,46
+334,South Carolina,Syracuse,2016-11-26,W,64,50
+335,South Carolina,Vermont,2016-12-01,W,68,50
+336,South Carolina,Florida International,2016-12-04,W,70,54
+337,South Carolina,Seton Hall,2016-12-12,L,64,67
+338,South Carolina,South Florida,2016-12-17,W,77,66
+339,South Carolina,Clemson,2016-12-21,L,60,62
+340,South Carolina,Lander,2016-12-27,W,90,62
+341,South Carolina,Memphis,2016-12-30,L,54,70
+342,South Carolina,Georgia,2017-01-04,W,67,61
+343,South Carolina,Texas A&M,2017-01-07,W,79,68
+344,South Carolina,Tennessee,2017-01-11,W,70,60
+345,South Carolina,Mississippi,2017-01-14,W,67,56
+346,South Carolina,Florida,2017-01-18,W,57,53
+347,South Carolina,Kentucky,2017-01-21,L,69,85
+348,South Carolina,Auburn,2017-01-24,W,98,69
+349,South Carolina,Missouri,2017-01-28,W,63,53
+350,South Carolina,Louisiana State,2017-02-01,W,88,63
+351,South Carolina,Georgia,2017-02-04,W,77,75
+352,South Carolina,Alabama,2017-02-07,L,86,90
+353,South Carolina,Mississippi State,2017-02-11,W,77,73
+354,South Carolina,Arkansas,2017-02-15,L,76,83
+355,South Carolina,Vanderbilt,2017-02-18,L,62,71
+356,South Carolina,Florida,2017-02-21,L,66,81
+357,South Carolina,Tennessee,2017-02-25,W,82,55
+358,South Carolina,Mississippi State,2017-02-28,W,63,57
+359,South Carolina,Mississippi,2017-03-04,L,70,75
+360,South Carolina,Alabama,2017-03-10,L,53,64
+361,Marquette,Vanderbilt,2016-11-11,W,95,71
+362,Marquette,Howard,2016-11-14,W,81,49
+363,Marquette,Michigan,2016-11-17,L,61,79
+364,Marquette,Pittsburgh,2016-11-18,L,75,78
+365,Marquette,IUPUI,2016-11-22,W,104,79
+366,Marquette,Houston Baptist,2016-11-26,W,101,79
+367,Marquette,Western Carolina,2016-11-30,W,90,44
+368,Marquette,Georgia,2016-12-04,W,89,79
+369,Marquette,Fresno State,2016-12-06,W,84,81
+370,Marquette,Wisconsin,2016-12-10,L,84,93
+371,Marquette,Saint Francis (PA),2016-12-19,W,78,65
+372,Marquette,Southern Illinois-Edwardsville,2016-12-21,W,89,56
+373,Marquette,Georgetown,2016-12-28,W,76,66
+374,Marquette,Seton Hall,2017-01-01,L,66,69
+375,Marquette,Villanova,2017-01-07,L,81,93
+376,Marquette,Seton Hall,2017-01-11,W,89,86
+377,Marquette,DePaul,2017-01-14,W,83,58
+378,Marquette,Butler,2017-01-16,L,80,88
+379,Marquette,Creighton,2017-01-21,W,102,94
+380,Marquette,Villanova,2017-01-24,W,74,72
+381,Marquette,Providence,2017-01-28,L,78,79
+382,Marquette,St. John's (NY),2017-02-01,L,72,86
+383,Marquette,DePaul,2017-02-04,W,92,79
+384,Marquette,Butler,2017-02-07,L,65,68
+385,Marquette,Georgetown,2017-02-11,L,62,80
+386,Marquette,Xavier,2017-02-18,W,83,61
+387,Marquette,St. John's (NY),2017-02-21,W,93,71
+388,Marquette,Providence,2017-02-25,L,69,73
+389,Marquette,Xavier,2017-03-01,W,95,84
+390,Marquette,Creighton,2017-03-04,W,91,83
+391,Marquette,Seton Hall,2017-03-09,L,76,82
+392,Duke,Marist,2016-11-11,W,94,49
+393,Duke,Grand Canyon,2016-11-12,W,96,61
+394,Duke,Kansas,2016-11-15,L,75,77
+395,Duke,Penn State,2016-11-19,W,78,68
+396,Duke,Rhode Island,2016-11-20,W,75,65
+397,Duke,William & Mary,2016-11-23,W,88,67
+398,Duke,Appalachian State,2016-11-26,W,93,58
+399,Duke,Michigan State,2016-11-29,W,78,69
+400,Duke,Maine,2016-12-03,W,94,55
+401,Duke,Florida,2016-12-06,W,84,74
+402,Duke,Nevada-Las Vegas,2016-12-10,W,94,45
+403,Duke,Tennessee State,2016-12-19,W,65,55
+404,Duke,Elon,2016-12-21,W,72,61
+405,Duke,Virginia Tech,2016-12-31,L,75,89
+406,Duke,Georgia Tech,2017-01-04,W,110,57
+407,Duke,Boston College,2017-01-07,W,93,82
+408,Duke,Florida State,2017-01-10,L,72,88
+409,Duke,Louisville,2017-01-14,L,69,78
+410,Duke,Miami (FL),2017-01-21,W,70,58
+411,Duke,North Carolina State,2017-01-23,L,82,84
+412,Duke,Wake Forest,2017-01-28,W,85,83
+413,Duke,Notre Dame,2017-01-30,W,84,74
+414,Duke,Pittsburgh,2017-02-04,W,72,64
+415,Duke,North Carolina,2017-02-09,W,86,78
+416,Duke,Clemson,2017-02-11,W,64,62
+417,Duke,Virginia,2017-02-15,W,65,55
+418,Duke,Wake Forest,2017-02-18,W,99,94
+419,Duke,Syracuse,2017-02-22,L,75,78
+420,Duke,Miami (FL),2017-02-25,L,50,55
+421,Duke,Florida State,2017-02-28,W,75,70
+422,Duke,North Carolina,2017-03-04,L,83,90
+423,Duke,Clemson,2017-03-08,W,79,72
+424,Duke,Louisville,2017-03-09,W,81,77
+425,Duke,North Carolina,2017-03-10,W,93,83
+426,Duke,Notre Dame,2017-03-11,W,75,69
+427,Troy,Toccoa Falls,2016-11-11,W,135,76
+428,Troy,Eastern Illinois,2016-11-14,W,70,67
+429,Troy,Alabama-Birmingham,2016-11-17,L,51,74
+430,Troy,Eastern Illinois,2016-11-21,L,67,71
+431,Troy,San Francisco,2016-11-23,L,67,79
+432,Troy,Hawaii,2016-11-25,W,65,63
+433,Troy,South Florida,2016-12-01,L,74,80
+434,Troy,Alabama State,2016-12-04,W,83,65
+435,Troy,Alabama A&M,2016-12-10,W,88,59
+436,Troy,Point University,2016-12-14,W,114,52
+437,Troy,Southern California,2016-12-17,L,77,82
+438,Troy,Wyoming,2016-12-19,L,66,72
+439,Troy,Cornell,2016-12-22,W,92,84
+440,Troy,Chicago State,2016-12-23,W,83,65
+441,Troy,South Alabama,2017-01-02,L,75,76
+442,Troy,Georgia Southern,2017-01-07,L,82,86
+443,Troy,Georgia State,2017-01-09,W,80,77
+444,Troy,Texas-Arlington,2017-01-14,W,93,71
+445,Troy,Texas State,2017-01-16,L,71,75
+446,Troy,Arkansas State,2017-01-21,L,80,82
+447,Troy,Arkansas-Little Rock,2017-01-23,W,78,69
+448,Troy,Georgia State,2017-01-28,L,72,78
+449,Troy,Georgia Southern,2017-01-30,W,83,76
+450,Troy,South Alabama,2017-02-04,L,71,76
+451,Troy,Louisiana-Lafayette,2017-02-11,W,100,88
+452,Troy,Louisiana-Monroe,2017-02-13,W,73,72
+453,Troy,Coastal Carolina,2017-02-18,W,87,78
+454,Troy,Appalachian State,2017-02-20,W,76,66
+455,Troy,Texas State,2017-02-25,L,59,63
+456,Troy,Texas-Arlington,2017-02-27,L,67,82
+457,Troy,Arkansas State,2017-03-02,W,81,72
+458,Troy,Arkansas-Little Rock,2017-03-04,W,57,54
+459,Troy,Appalachian State,2017-03-08,W,84,64
+460,Troy,Georgia Southern,2017-03-10,W,90,70
+461,Troy,Georgia State,2017-03-11,W,74,63
+462,Troy,Texas State,2017-03-12,W,59,53
+463,Kansas,Indiana,2016-11-11,L,99,103
+464,Kansas,Duke,2016-11-15,W,77,75
+465,Kansas,Siena,2016-11-18,W,86,65
+466,Kansas,Alabama-Birmingham,2016-11-21,W,83,63
+467,Kansas,Georgia,2016-11-22,W,65,54
+468,Kansas,North Carolina-Asheville,2016-11-25,W,95,57
+469,Kansas,Long Beach State,2016-11-29,W,91,61
+470,Kansas,Stanford,2016-12-03,W,89,74
+471,Kansas,Missouri-Kansas City,2016-12-06,W,105,62
+472,Kansas,Nebraska,2016-12-10,W,89,72
+473,Kansas,Davidson,2016-12-17,W,89,71
+474,Kansas,Nevada-Las Vegas,2016-12-22,W,71,53
+475,Kansas,Texas Christian,2016-12-30,W,86,80
+476,Kansas,Kansas State,2017-01-03,W,90,88
+477,Kansas,Texas Tech,2017-01-07,W,85,68
+478,Kansas,Oklahoma,2017-01-10,W,81,70
+479,Kansas,Oklahoma State,2017-01-14,W,87,80
+480,Kansas,Iowa State,2017-01-16,W,76,72
+481,Kansas,Texas,2017-01-21,W,79,67
+482,Kansas,West Virginia,2017-01-24,L,69,85
+483,Kansas,Kentucky,2017-01-28,W,79,73
+484,Kansas,Baylor,2017-02-01,W,73,68
+485,Kansas,Iowa State,2017-02-04,L,89,92
+486,Kansas,Kansas State,2017-02-06,W,74,71
+487,Kansas,Texas Tech,2017-02-11,W,80,79
+488,Kansas,West Virginia,2017-02-13,W,84,80
+489,Kansas,Baylor,2017-02-18,W,67,65
+490,Kansas,Texas Christian,2017-02-22,W,87,68
+491,Kansas,Texas,2017-02-25,W,77,67
+492,Kansas,Oklahoma,2017-02-27,W,73,63
+493,Kansas,Oklahoma State,2017-03-04,W,90,85
+494,Miami (FL),Western Carolina,2016-11-11,W,92,43
+495,Miami (FL),North Florida,2016-11-16,W,94,56
+496,Miami (FL),Pennsylvania,2016-11-19,W,74,62
+497,Miami (FL),Stanford,2016-11-24,W,67,53
+498,Miami (FL),Iowa State,2016-11-25,L,56,73
+499,Miami (FL),Florida,2016-11-27,L,56,65
+500,Miami (FL),Rutgers,2016-11-30,W,73,61
+501,Miami (FL),Wofford,2016-12-03,W,74,57
+502,Miami (FL),South Carolina State,2016-12-06,W,82,46
+503,Miami (FL),Florida Atlantic,2016-12-16,W,76,56
+504,Miami (FL),George Washington,2016-12-22,W,72,64
+505,Miami (FL),Columbia,2016-12-28,W,78,67
+506,Miami (FL),North Carolina State,2016-12-31,W,81,63
+507,Miami (FL),Syracuse,2017-01-04,L,55,70
+508,Miami (FL),Notre Dame,2017-01-12,L,62,67
+509,Miami (FL),Pittsburgh,2017-01-14,W,72,46
+510,Miami (FL),Wake Forest,2017-01-18,L,79,96
+511,Miami (FL),Duke,2017-01-21,L,58,70
+512,Miami (FL),Boston College,2017-01-25,W,78,77
+513,Miami (FL),North Carolina,2017-01-28,W,77,62
+514,Miami (FL),Florida State,2017-02-01,L,57,75
+515,Miami (FL),North Carolina State,2017-02-04,W,84,79
+516,Miami (FL),Virginia Tech,2017-02-08,W,74,68
+517,Miami (FL),Louisville,2017-02-11,L,66,71
+518,Miami (FL),Georgia Tech,2017-02-15,W,70,61
+519,Miami (FL),Clemson,2017-02-18,W,71,65
+520,Miami (FL),Virginia,2017-02-20,W,54,48
+521,Miami (FL),Duke,2017-02-25,W,55,50
+522,Miami (FL),Virginia Tech,2017-02-27,L,61,66
+523,Miami (FL),Florida State,2017-03-04,L,57,66
+524,Miami (FL),Syracuse,2017-03-08,W,62,57
+525,Miami (FL),North Carolina,2017-03-09,L,53,78
+526,Michigan State,Arizona,2016-11-11,L,63,65
+527,Michigan State,Kentucky,2016-11-15,L,48,69
+528,Michigan State,Mississippi Valley State,2016-11-18,W,100,53
+529,Michigan State,Florida Gulf Coast,2016-11-20,W,78,77
+530,Michigan State,St. John's (NY),2016-11-23,W,73,62
+531,Michigan State,Baylor,2016-11-24,L,58,73
+532,Michigan State,Wichita State,2016-11-25,W,77,72
+533,Michigan State,Duke,2016-11-29,L,69,78
+534,Michigan State,Oral Roberts,2016-12-03,W,80,76
+535,Michigan State,Youngstown State,2016-12-06,W,77,57
+536,Michigan State,Tennessee Tech,2016-12-10,W,71,63
+537,Michigan State,Northeastern,2016-12-18,L,73,81
+538,Michigan State,Oakland,2016-12-21,W,77,65
+539,Michigan State,Minnesota,2016-12-27,W,75,74
+540,Michigan State,Northwestern,2016-12-30,W,61,52
+541,Michigan State,Rutgers,2017-01-04,W,93,65
+542,Michigan State,Penn State,2017-01-07,L,63,72
+543,Michigan State,Minnesota,2017-01-11,W,65,47
+544,Michigan State,Ohio State,2017-01-15,L,67,72
+545,Michigan State,Indiana,2017-01-21,L,75,82
+546,Michigan State,Purdue,2017-01-24,L,73,84
+547,Michigan State,Michigan,2017-01-29,W,70,62
+548,Michigan State,Nebraska,2017-02-02,W,72,61
+549,Michigan State,Michigan,2017-02-07,L,57,86
+550,Michigan State,Iowa,2017-02-11,W,77,66
+551,Michigan State,Ohio State,2017-02-14,W,74,66
+552,Michigan State,Purdue,2017-02-18,L,63,80
+553,Michigan State,Nebraska,2017-02-23,W,88,72
+554,Michigan State,Wisconsin,2017-02-26,W,84,74
+555,Michigan State,Illinois,2017-03-01,L,70,73
+556,Michigan State,Maryland,2017-03-04,L,60,63
+557,Michigan State,Penn State,2017-03-09,W,78,51
+558,Michigan State,Minnesota,2017-03-10,L,58,63
+559,Iowa State,Savannah State,2016-11-11,W,113,71
+560,Iowa State,Mount St. Mary's,2016-11-14,W,73,55
+561,Iowa State,Citadel,2016-11-20,W,130,63
+562,Iowa State,Indiana State,2016-11-24,W,73,71
+563,Iowa State,Miami (FL),2016-11-25,W,73,56
+564,Iowa State,Gonzaga,2016-11-27,L,71,73
+565,Iowa State,Cincinnati,2016-12-01,L,54,55
+566,Iowa State,Nebraska-Omaha,2016-12-05,W,91,47
+567,Iowa State,Iowa,2016-12-08,L,64,78
+568,Iowa State,Drake,2016-12-17,W,97,80
+569,Iowa State,Mississippi Valley State,2016-12-20,W,88,60
+570,Iowa State,Texas Tech,2016-12-30,W,63,56
+571,Iowa State,Baylor,2017-01-04,L,63,65
+572,Iowa State,Texas,2017-01-07,W,79,70
+573,Iowa State,Oklahoma State,2017-01-11,W,96,86
+574,Iowa State,Texas Christian,2017-01-14,L,77,84
+575,Iowa State,Kansas,2017-01-16,L,72,76
+576,Iowa State,Oklahoma,2017-01-21,W,92,87
+577,Iowa State,Kansas State,2017-01-24,W,70,65
+578,Iowa State,Vanderbilt,2017-01-28,L,78,84
+579,Iowa State,West Virginia,2017-01-31,L,72,85
+580,Iowa State,Kansas,2017-02-04,W,92,89
+581,Iowa State,Texas,2017-02-07,L,65,67
+582,Iowa State,Oklahoma,2017-02-11,W,80,64
+583,Iowa State,Kansas State,2017-02-15,W,87,79
+584,Iowa State,Texas Christian,2017-02-18,W,84,71
+585,Iowa State,Texas Tech,2017-02-20,W,82,80
+586,Iowa State,Baylor,2017-02-25,W,72,69
+587,Iowa State,Oklahoma State,2017-02-28,W,86,83
+588,Iowa State,West Virginia,2017-03-03,L,76,87
+589,Iowa State,Oklahoma State,2017-03-09,W,92,83
+590,Iowa State,Texas Christian,2017-03-10,W,84,63
+591,Iowa State,West Virginia,2017-03-11,W,80,74
+592,Nevada,Saint Mary's (CA),2016-11-11,L,63,81
+593,Nevada,Loyola Marymount,2016-11-14,W,79,64
+594,Nevada,Oregon State,2016-11-18,W,83,58
+595,Nevada,Iona,2016-11-20,W,91,76
+596,Nevada,Oakland,2016-11-23,W,82,78
+597,Nevada,Buffalo,2016-11-25,W,67,62
+598,Nevada,Iona,2016-11-26,L,73,75
+599,Nevada,Pacific,2016-11-29,W,77,67
+600,Nevada,Bradley,2016-12-03,W,91,69
+601,Nevada,Washington,2016-12-11,W,87,85
+602,Nevada,UC-Irvine,2016-12-14,W,76,69
+603,Nevada,Towson,2016-12-21,W,81,72
+604,Nevada,UC-Santa Barbara,2016-12-22,W,67,66
+605,Nevada,San Jose State,2016-12-28,W,80,55
+606,Nevada,Fresno State,2016-12-31,L,76,77
+607,Nevada,San Diego State,2017-01-04,W,72,69
+608,Nevada,New Mexico,2017-01-07,W,105,104
+609,Nevada,Wyoming,2017-01-14,W,89,74
+610,Nevada,Air Force,2017-01-18,W,83,76
+611,Nevada,Fresno State,2017-01-21,L,76,81
+612,Nevada,Boise State,2017-01-25,W,76,57
+613,Nevada,New Mexico,2017-01-28,W,82,65
+614,Nevada,Utah State,2017-02-01,L,57,74
+615,Nevada,Nevada-Las Vegas,2017-02-08,W,104,77
+616,Nevada,San Diego State,2017-02-12,L,56,70
+617,Nevada,Air Force,2017-02-15,W,78,59
+618,Nevada,Utah State,2017-02-18,W,77,66
+619,Nevada,Boise State,2017-02-22,W,85,77
+620,Nevada,Nevada-Las Vegas,2017-02-25,W,94,58
+621,Nevada,San Jose State,2017-03-01,W,82,67
+622,Nevada,Colorado State,2017-03-04,W,85,72
+623,Nevada,Utah State,2017-03-09,W,83,69
+624,Nevada,Fresno State,2017-03-10,W,83,72
+625,Nevada,Colorado State,2017-03-11,W,79,71
+626,Purdue,McNeese State,2016-11-11,W,109,65
+627,Purdue,Villanova,2016-11-14,L,76,79
+628,Purdue,Georgia State,2016-11-18,W,64,56
+629,Purdue,Utah State,2016-11-22,W,85,64
+630,Purdue,Auburn,2016-11-23,W,96,71
+631,Purdue,NJIT,2016-11-26,W,79,68
+632,Purdue,Louisville,2016-11-30,L,64,71
+633,Purdue,Morehead State,2016-12-03,W,90,56
+634,Purdue,Arizona State,2016-12-06,W,97,64
+635,Purdue,Cleveland State,2016-12-10,W,77,53
+636,Purdue,Notre Dame,2016-12-17,W,86,81
+637,Purdue,Western Illinois,2016-12-19,W,82,50
+638,Purdue,Norfolk State,2016-12-21,W,91,45
+639,Purdue,Iowa,2016-12-28,W,89,67
+640,Purdue,Minnesota,2017-01-01,L,82,91
+641,Purdue,Ohio State,2017-01-05,W,76,75
+642,Purdue,Wisconsin,2017-01-08,W,66,55
+643,Purdue,Iowa,2017-01-12,L,78,83
+644,Purdue,Illinois,2017-01-17,W,91,68
+645,Purdue,Penn State,2017-01-21,W,77,52
+646,Purdue,Michigan State,2017-01-24,W,84,73
+647,Purdue,Nebraska,2017-01-29,L,80,83
+648,Purdue,Northwestern,2017-02-01,W,80,59
+649,Purdue,Maryland,2017-02-04,W,73,72
+650,Purdue,Indiana,2017-02-09,W,69,64
+651,Purdue,Rutgers,2017-02-14,W,74,55
+652,Purdue,Michigan State,2017-02-18,W,80,63
+653,Purdue,Penn State,2017-02-21,W,74,70
+654,Purdue,Michigan,2017-02-25,L,70,82
+655,Purdue,Indiana,2017-02-28,W,86,75
+656,Purdue,Northwestern,2017-03-05,W,69,65
+657,Purdue,Michigan,2017-03-10,L,70,74
+658,Vermont,Quinnipiac,2016-11-12,W,94,70
+659,Vermont,Providence,2016-11-14,L,58,80
+660,Vermont,Marist,2016-11-16,W,76,72
+661,Vermont,Lyndon State,2016-11-19,W,79,20
+662,Vermont,Wofford,2016-11-21,W,60,59
+663,Vermont,Hofstra,2016-11-22,W,87,73
+664,Vermont,Houston,2016-11-23,L,71,72
+665,Vermont,Yale,2016-11-26,W,67,65
+666,Vermont,South Carolina,2016-12-01,L,50,68
+667,Vermont,Dartmouth,2016-12-07,W,73,58
+668,Vermont,Northeastern,2016-12-10,L,57,59
+669,Vermont,Eastern Michigan,2016-12-17,W,82,74
+670,Vermont,Butler,2016-12-21,L,69,81
+671,Vermont,Siena,2016-12-29,W,76,60
+672,Vermont,Harvard,2017-01-02,W,82,71
+673,Vermont,Maine,2017-01-05,W,90,77
+674,Vermont,Hartford,2017-01-08,W,85,54
+675,Vermont,Binghamton,2017-01-11,W,67,50
+676,Vermont,Maryland-Baltimore County,2017-01-13,W,81,72
+677,Vermont,New Hampshire,2017-01-16,W,71,59
+678,Vermont,Massachusetts-Lowell,2017-01-19,W,81,67
+679,Vermont,Albany (NY),2017-01-25,W,60,49
+680,Vermont,Stony Brook,2017-01-28,W,71,64
+681,Vermont,Maine,2017-02-01,W,74,53
+682,Vermont,Hartford,2017-02-04,W,79,66
+683,Vermont,Binghamton,2017-02-06,W,71,51
+684,Vermont,New Hampshire,2017-02-09,W,82,74
+685,Vermont,Maryland-Baltimore County,2017-02-12,W,77,74
+686,Vermont,Massachusetts-Lowell,2017-02-15,W,87,66
+687,Vermont,Albany (NY),2017-02-22,W,62,50
+688,Vermont,Stony Brook,2017-02-25,W,66,51
+689,Vermont,Maine,2017-03-01,W,86,41
+690,Vermont,New Hampshire,2017-03-06,W,74,41
+691,Vermont,Albany (NY),2017-03-11,W,56,53
+692,Creighton,Missouri-Kansas City,2016-11-11,W,89,82
+693,Creighton,Wisconsin,2016-11-15,W,79,67
+694,Creighton,Washington State,2016-11-18,W,103,77
+695,Creighton,North Carolina State,2016-11-20,W,112,94
+696,Creighton,Mississippi,2016-11-21,W,86,77
+697,Creighton,Loyola (MD),2016-11-26,W,82,52
+698,Creighton,Buffalo,2016-11-29,W,93,72
+699,Creighton,Akron,2016-12-03,W,82,70
+700,Creighton,Nebraska,2016-12-07,W,77,62
+701,Creighton,Longwood,2016-12-09,W,113,58
+702,Creighton,Oral Roberts,2016-12-17,W,66,65
+703,Creighton,Arizona State,2016-12-20,W,96,85
+704,Creighton,Seton Hall,2016-12-28,W,89,75
+705,Creighton,Villanova,2016-12-31,L,70,80
+706,Creighton,St. John's (NY),2017-01-04,W,85,72
+707,Creighton,Providence,2017-01-07,W,78,64
+708,Creighton,Butler,2017-01-11,W,75,64
+709,Creighton,Truman State,2017-01-14,W,101,69
+710,Creighton,Xavier,2017-01-16,W,72,67
+711,Creighton,Marquette,2017-01-21,L,94,102
+712,Creighton,Georgetown,2017-01-25,L,51,71
+713,Creighton,DePaul,2017-01-28,W,83,66
+714,Creighton,Butler,2017-01-31,W,76,67
+715,Creighton,Xavier,2017-02-04,L,80,82
+716,Creighton,DePaul,2017-02-11,W,93,58
+717,Creighton,Seton Hall,2017-02-15,L,81,87
+718,Creighton,Georgetown,2017-02-19,W,87,70
+719,Creighton,Providence,2017-02-22,L,66,68
+720,Creighton,Villanova,2017-02-25,L,63,79
+721,Creighton,St. John's (NY),2017-02-28,W,82,68
+722,Creighton,Marquette,2017-03-04,L,83,91
+723,Creighton,Providence,2017-03-09,W,70,58
+724,Creighton,Xavier,2017-03-10,W,75,72
+725,Creighton,Villanova,2017-03-11,L,60,74
+726,Rhode Island,Dartmouth,2016-11-11,W,84,61
+727,Rhode Island,Marist,2016-11-14,W,107,65
+728,Rhode Island,Brown,2016-11-16,W,79,72
+729,Rhode Island,Cincinnati,2016-11-19,W,76,71
+730,Rhode Island,Duke,2016-11-20,L,65,75
+731,Rhode Island,Belmont,2016-11-25,W,82,73
+732,Rhode Island,Valparaiso,2016-11-29,L,62,65
+733,Rhode Island,Providence,2016-12-03,L,60,63
+734,Rhode Island,Old Dominion,2016-12-06,W,51,39
+735,Rhode Island,Houston,2016-12-10,L,77,82
+736,Rhode Island,Holy Cross,2016-12-18,W,65,54
+737,Rhode Island,William & Mary,2016-12-22,W,73,62
+738,Rhode Island,Saint Louis,2016-12-30,W,90,56
+739,Rhode Island,Saint Joseph's,2017-01-03,W,88,58
+740,Rhode Island,Dayton,2017-01-06,L,64,67
+741,Rhode Island,La Salle,2017-01-12,L,75,87
+742,Rhode Island,Massachusetts,2017-01-15,W,79,77
+743,Rhode Island,Duquesne,2017-01-21,W,90,69
+744,Rhode Island,Richmond,2017-01-25,L,62,73
+745,Rhode Island,St. Bonaventure,2017-01-28,W,71,59
+746,Rhode Island,George Washington,2017-01-31,W,82,70
+747,Rhode Island,Davidson,2017-02-03,W,70,59
+748,Rhode Island,Massachusetts,2017-02-07,W,70,62
+749,Rhode Island,Dayton,2017-02-10,L,74,75
+750,Rhode Island,Fordham,2017-02-15,L,43,53
+751,Rhode Island,George Mason,2017-02-18,W,77,74
+752,Rhode Island,La Salle,2017-02-21,W,67,56
+753,Rhode Island,Virginia Commonwealth,2017-02-25,W,69,59
+754,Rhode Island,Saint Joseph's,2017-03-01,W,68,49
+755,Rhode Island,Davidson,2017-03-04,W,73,70
+756,Rhode Island,St. Bonaventure,2017-03-10,W,74,63
+757,Rhode Island,Davidson,2017-03-11,W,84,60
+758,Rhode Island,Virginia Commonwealth,2017-03-12,W,70,63
+759,Oregon,Army,2016-11-11,W,91,77
+760,Oregon,Baylor,2016-11-15,L,49,66
+761,Oregon,Valparaiso,2016-11-17,W,76,54
+762,Oregon,Georgetown,2016-11-21,L,61,65
+763,Oregon,Tennessee,2016-11-22,W,69,65
+764,Oregon,Connecticut,2016-11-23,W,79,69
+765,Oregon,Boise State,2016-11-28,W,68,63
+766,Oregon,Western Oregon,2016-11-30,W,93,54
+767,Oregon,Savannah State,2016-12-03,W,128,59
+768,Oregon,Alabama,2016-12-11,W,65,56
+769,Oregon,Montana,2016-12-13,W,81,67
+770,Oregon,Nevada-Las Vegas,2016-12-17,W,83,63
+771,Oregon,Fresno State,2016-12-20,W,75,63
+772,Oregon,UCLA,2016-12-28,W,89,87
+773,Oregon,Southern California,2016-12-30,W,84,61
+774,Oregon,Washington,2017-01-04,W,83,61
+775,Oregon,Washington State,2017-01-07,W,85,66
+776,Oregon,Oregon State,2017-01-14,W,85,43
+777,Oregon,University of California,2017-01-19,W,86,63
+778,Oregon,Stanford,2017-01-21,W,69,52
+779,Oregon,Utah,2017-01-26,W,73,67
+780,Oregon,Colorado,2017-01-28,L,65,74
+781,Oregon,Arizona State,2017-02-02,W,71,70
+782,Oregon,Arizona,2017-02-04,W,85,58
+783,Oregon,UCLA,2017-02-09,L,79,82
+784,Oregon,Southern California,2017-02-11,W,81,70
+785,Oregon,Utah,2017-02-16,W,79,61
+786,Oregon,Colorado,2017-02-18,W,101,73
+787,Oregon,University of California,2017-02-22,W,68,65
+788,Oregon,Stanford,2017-02-25,W,75,73
+789,Oregon,Oregon State,2017-03-04,W,80,59
+790,Oregon,Arizona State,2017-03-09,W,80,57
+791,Oregon,University of California,2017-03-10,W,73,65
+792,Oregon,Arizona,2017-03-11,L,80,83
+793,Iona,Florida State,2016-11-15,L,78,99
+794,Iona,Nevada,2016-11-20,L,76,91
+795,Iona,Drake,2016-11-24,W,64,53
+796,Iona,Weber State,2016-11-25,W,76,54
+797,Iona,Nevada,2016-11-26,W,75,73
+798,Iona,Saint Peter's,2016-12-02,W,79,65
+799,Iona,Niagara,2016-12-04,L,58,74
+800,Iona,Fairleigh Dickinson,2016-12-07,W,90,73
+801,Iona,Ohio,2016-12-10,W,79,75
+802,Iona,NJIT,2016-12-14,W,94,80
+803,Iona,UC-Santa Barbara,2016-12-21,W,73,57
+804,Iona,Towson,2016-12-22,L,69,76
+805,Iona,Delaware,2016-12-28,L,54,63
+806,Iona,Marist,2016-12-31,W,93,80
+807,Iona,Fairfield,2017-01-02,L,87,93
+808,Iona,Monmouth,2017-01-06,L,74,92
+809,Iona,Canisius,2017-01-08,W,98,75
+810,Iona,Quinnipiac,2017-01-14,L,91,97
+811,Iona,Manhattan,2017-01-17,W,82,67
+812,Iona,Fairfield,2017-01-20,W,96,89
+813,Iona,Quinnipiac,2017-01-23,W,84,74
+814,Iona,Siena,2017-01-27,W,77,66
+815,Iona,Saint Peter's,2017-01-29,W,69,66
+816,Iona,Rider,2017-02-03,W,95,76
+817,Iona,Siena,2017-02-07,L,79,81
+818,Iona,Niagara,2017-02-12,W,90,76
+819,Iona,Canisius,2017-02-14,L,83,89
+820,Iona,Marist,2017-02-17,W,95,88
+821,Iona,Rider,2017-02-19,L,85,103
+822,Iona,Manhattan,2017-02-24,W,72,51
+823,Iona,Monmouth,2017-02-26,L,73,79
+824,Iona,Rider,2017-03-04,W,88,70
+825,Iona,Saint Peter's,2017-03-05,W,73,65
+826,Iona,Siena,2017-03-06,W,87,86
+827,Michigan,Howard,2016-11-11,W,76,58
+828,Michigan,IUPUI,2016-11-13,W,77,65
+829,Michigan,Marquette,2016-11-17,W,79,61
+830,Michigan,Southern Methodist,2016-11-18,W,76,54
+831,Michigan,South Carolina,2016-11-23,L,46,61
+832,Michigan,Mount St. Mary's,2016-11-26,W,64,47
+833,Michigan,Virginia Tech,2016-11-30,L,70,73
+834,Michigan,Kennesaw State,2016-12-03,W,82,55
+835,Michigan,Texas,2016-12-06,W,53,50
+836,Michigan,UCLA,2016-12-10,L,84,102
+837,Michigan,Central Arkansas,2016-12-13,W,97,53
+838,Michigan,Maryland-Eastern Shore,2016-12-17,W,98,49
+839,Michigan,Furman,2016-12-22,W,68,62
+840,Michigan,Iowa,2017-01-01,L,83,86
+841,Michigan,Penn State,2017-01-04,W,72,69
+842,Michigan,Maryland,2017-01-07,L,70,77
+843,Michigan,Illinois,2017-01-11,L,69,85
+844,Michigan,Nebraska,2017-01-14,W,91,85
+845,Michigan,Wisconsin,2017-01-17,L,64,68
+846,Michigan,Illinois,2017-01-21,W,66,57
+847,Michigan,Indiana,2017-01-26,W,90,60
+848,Michigan,Michigan State,2017-01-29,L,62,70
+849,Michigan,Ohio State,2017-02-04,L,66,70
+850,Michigan,Michigan State,2017-02-07,W,86,57
+851,Michigan,Indiana,2017-02-12,W,75,63
+852,Michigan,Wisconsin,2017-02-16,W,64,58
+853,Michigan,Minnesota,2017-02-19,L,78,83
+854,Michigan,Rutgers,2017-02-22,W,68,64
+855,Michigan,Purdue,2017-02-25,W,82,70
+856,Michigan,Northwestern,2017-03-01,L,65,67
+857,Michigan,Nebraska,2017-03-05,W,93,57
+858,Michigan,Illinois,2017-03-09,W,75,55
+859,Michigan,Purdue,2017-03-10,W,74,70
+860,Michigan,Minnesota,2017-03-11,W,84,77
+861,Michigan,Wisconsin,2017-03-12,W,71,56
+862,Oklahoma State,Campbell,2016-11-11,W,102,65
+863,Oklahoma State,Central Arkansas,2016-11-14,W,102,90
+864,Oklahoma State,New Orleans,2016-11-16,W,117,72
+865,Oklahoma State,Connecticut,2016-11-21,W,98,90
+866,Oklahoma State,North Carolina,2016-11-22,L,75,107
+867,Oklahoma State,Georgetown,2016-11-23,W,97,70
+868,Oklahoma State,Rogers State,2016-11-30,W,101,85
+869,Oklahoma State,Maryland,2016-12-03,L,70,71
+870,Oklahoma State,Tulsa,2016-12-10,W,71,67
+871,Oklahoma State,Arkansas-Pine Bluff,2016-12-14,W,102,66
+872,Oklahoma State,Wichita State,2016-12-17,W,93,76
+873,Oklahoma State,Texas A&M-Corpus Christi,2016-12-22,W,92,70
+874,Oklahoma State,West Virginia,2016-12-30,L,75,92
+875,Oklahoma State,Texas,2017-01-04,L,79,82
+876,Oklahoma State,Baylor,2017-01-07,L,57,61
+877,Oklahoma State,Iowa State,2017-01-11,L,86,96
+878,Oklahoma State,Kansas,2017-01-14,L,80,87
+879,Oklahoma State,Kansas State,2017-01-18,L,88,96
+880,Oklahoma State,Texas Tech,2017-01-21,W,83,64
+881,Oklahoma State,Texas Christian,2017-01-23,W,89,76
+882,Oklahoma State,Arkansas,2017-01-28,W,99,71
+883,Oklahoma State,Oklahoma,2017-01-30,W,68,66
+884,Oklahoma State,West Virginia,2017-02-04,W,82,75
+885,Oklahoma State,Baylor,2017-02-08,L,69,72
+886,Oklahoma State,Texas,2017-02-11,W,84,71
+887,Oklahoma State,Texas Christian,2017-02-15,W,71,68
+888,Oklahoma State,Oklahoma,2017-02-18,W,96,92
+889,Oklahoma State,Kansas State,2017-02-22,W,80,68
+890,Oklahoma State,Texas Tech,2017-02-25,W,80,63
+891,Oklahoma State,Iowa State,2017-02-28,L,83,86
+892,Oklahoma State,Kansas,2017-03-04,L,85,90
+893,Oklahoma State,Iowa State,2017-03-09,L,83,92
+894,Louisville,Evansville,2016-11-11,W,78,47
+895,Louisville,William & Mary,2016-11-14,W,91,58
+896,Louisville,Long Beach State,2016-11-17,W,88,56
+897,Louisville,Old Dominion,2016-11-23,W,68,62
+898,Louisville,Wichita State,2016-11-24,W,62,52
+899,Louisville,Baylor,2016-11-25,L,63,66
+900,Louisville,Purdue,2016-11-30,W,71,64
+901,Louisville,Grand Canyon,2016-12-03,W,79,70
+902,Louisville,Southern Illinois,2016-12-07,W,74,51
+903,Louisville,Texas Southern,2016-12-10,W,102,71
+904,Louisville,Eastern Kentucky,2016-12-17,W,87,56
+905,Louisville,Kentucky,2016-12-21,W,73,70
+906,Louisville,Virginia,2016-12-28,L,53,61
+907,Louisville,Indiana,2016-12-31,W,77,62
+908,Louisville,Notre Dame,2017-01-04,L,70,77
+909,Louisville,Georgia Tech,2017-01-07,W,65,50
+910,Louisville,Pittsburgh,2017-01-11,W,85,80
+911,Louisville,Duke,2017-01-14,W,78,69
+912,Louisville,Clemson,2017-01-19,W,92,60
+913,Louisville,Florida State,2017-01-21,L,68,73
+914,Louisville,Pittsburgh,2017-01-24,W,106,51
+915,Louisville,North Carolina State,2017-01-29,W,85,60
+916,Louisville,Boston College,2017-02-04,W,90,67
+917,Louisville,Virginia,2017-02-06,L,55,71
+918,Louisville,Miami (FL),2017-02-11,W,71,66
+919,Louisville,Syracuse,2017-02-13,W,76,72
+920,Louisville,Virginia Tech,2017-02-18,W,94,90
+921,Louisville,North Carolina,2017-02-22,L,63,74
+922,Louisville,Syracuse,2017-02-26,W,88,68
+923,Louisville,Wake Forest,2017-03-01,L,81,88
+924,Louisville,Notre Dame,2017-03-04,W,71,64
+925,Louisville,Duke,2017-03-09,L,77,81
+926,Jacksonville State,Tulsa,2016-11-11,W,84,73
+927,Jacksonville State,Missouri State,2016-11-13,L,65,91
+928,Jacksonville State,Western Kentucky,2016-11-16,L,67,74
+929,Jacksonville State,Texas Christian,2016-11-18,L,60,79
+930,Jacksonville State,Dalton State,2016-11-22,W,81,50
+931,Jacksonville State,Cal State Fullerton,2016-11-25,W,61,38
+932,Jacksonville State,Northern Arizona,2016-11-26,W,76,63
+933,Jacksonville State,Alabama State,2016-11-29,W,72,69
+934,Jacksonville State,Samford,2016-12-04,L,77,81
+935,Jacksonville State,Louisiana-Monroe,2016-12-10,L,83,88
+936,Jacksonville State,Maryland,2016-12-12,L,66,92
+937,Jacksonville State,Howard,2016-12-14,W,72,59
+938,Jacksonville State,South Carolina Upstate,2016-12-18,W,67,66
+939,Jacksonville State,Chattanooga,2016-12-21,L,57,73
+940,Jacksonville State,Tennessee-Martin,2016-12-29,W,90,72
+941,Jacksonville State,Eastern Illinois,2016-12-31,W,57,56
+942,Jacksonville State,Murray State,2017-01-05,L,63,76
+943,Jacksonville State,Austin Peay,2017-01-07,W,71,68
+944,Jacksonville State,Fort Valley State,2017-01-10,W,81,69
+945,Jacksonville State,Tennessee Tech,2017-01-14,W,74,59
+946,Jacksonville State,Belmont,2017-01-19,L,60,77
+947,Jacksonville State,Tennessee State,2017-01-21,W,86,79
+948,Jacksonville State,Eastern Kentucky,2017-01-26,L,52,57
+949,Jacksonville State,Morehead State,2017-01-28,L,69,72
+950,Jacksonville State,Southeast Missouri State,2017-02-01,W,74,62
+951,Jacksonville State,Southern Illinois-Edwardsville,2017-02-04,W,72,61
+952,Jacksonville State,Belmont,2017-02-09,L,53,66
+953,Jacksonville State,Tennessee State,2017-02-11,W,63,57
+954,Jacksonville State,Tennessee Tech,2017-02-18,L,78,79
+955,Jacksonville State,Eastern Kentucky,2017-02-23,L,65,68
+956,Jacksonville State,Morehead State,2017-02-25,W,70,61
+957,Jacksonville State,Southeast Missouri State,2017-03-02,W,74,51
+958,Jacksonville State,Belmont,2017-03-03,W,65,59
+959,Jacksonville State,Tennessee-Martin,2017-03-04,W,66,55
+960,UNC,Tulane,2016-11-11,W,95,75
+961,UNC,Chattanooga,2016-11-13,W,97,57
+962,UNC,Long Beach State,2016-11-15,W,93,67
+963,UNC,Hawaii,2016-11-18,W,83,68
+964,UNC,Chaminade,2016-11-21,W,104,61
+965,UNC,Oklahoma State,2016-11-22,W,107,75
+966,UNC,Wisconsin,2016-11-23,W,71,56
+967,UNC,Indiana,2016-11-30,L,67,76
+968,UNC,Radford,2016-12-04,W,95,50
+969,UNC,Davidson,2016-12-07,W,83,74
+970,UNC,Tennessee,2016-12-11,W,73,71
+971,UNC,Kentucky,2016-12-17,L,100,103
+972,UNC,Northern Iowa,2016-12-21,W,85,42
+973,UNC,Monmouth,2016-12-28,W,102,74
+974,UNC,Georgia Tech,2016-12-31,L,63,75
+975,UNC,Clemson,2017-01-03,W,89,86
+976,UNC,North Carolina State,2017-01-08,W,107,56
+977,UNC,Wake Forest,2017-01-11,W,93,87
+978,UNC,Florida State,2017-01-14,W,96,83
+979,UNC,Syracuse,2017-01-16,W,85,68
+980,UNC,Boston College,2017-01-21,W,90,82
+981,UNC,Virginia Tech,2017-01-26,W,91,72
+982,UNC,Miami (FL),2017-01-28,L,62,77
+983,UNC,Pittsburgh,2017-01-31,W,80,78
+984,UNC,Notre Dame,2017-02-05,W,83,76
+985,UNC,Duke,2017-02-09,L,78,86
+986,UNC,North Carolina State,2017-02-15,W,97,73
+987,UNC,Virginia,2017-02-18,W,65,41
+988,UNC,Louisville,2017-02-22,W,74,63
+989,UNC,Pittsburgh,2017-02-25,W,85,67
+990,UNC,Virginia,2017-02-27,L,43,53
+991,UNC,Duke,2017-03-04,W,90,83
+992,UNC,Miami (FL),2017-03-09,W,78,53
+993,UNC,Duke,2017-03-10,L,83,93
+994,Texas Southern,Texas-Arlington,2016-11-12,L,82,89
+995,Texas Southern,Delaware State,2016-11-13,W,74,61
+996,Texas Southern,Rice,2016-11-16,W,71,68
+997,Texas Southern,La Salle,2016-11-19,W,77,76
+998,Texas Southern,James Madison,2016-11-21,W,67,56
+999,Texas Southern,Louisiana-Lafayette,2016-11-27,L,73,84
+1000,Texas Southern,Arizona,2016-11-30,L,63,85
+1001,Texas Southern,Southern Illinois,2016-12-03,L,70,74
+1002,Texas Southern,Louisville,2016-12-10,L,71,102
+1003,Texas Southern,Cincinnati,2016-12-13,L,58,96
+1004,Texas Southern,Louisiana State,2016-12-17,L,80,88
+1005,Texas Southern,Texas Christian,2016-12-18,L,59,96
+1006,Texas Southern,Baylor,2016-12-21,L,63,89
+1007,Texas Southern,Alcorn State,2017-01-02,W,67,65
+1008,Texas Southern,Southern,2017-01-04,W,82,74
+1009,Texas Southern,Prairie View,2017-01-07,W,87,82
+1010,Texas Southern,Grambling,2017-01-14,W,76,55
+1011,Texas Southern,Jackson State,2017-01-16,W,67,44
+1012,Texas Southern,Arkansas-Pine Bluff,2017-01-21,W,70,63
+1013,Texas Southern,Mississippi Valley State,2017-01-23,L,89,103
+1014,Texas Southern,Alabama State,2017-01-28,W,70,68
+1015,Texas Southern,Alabama A&M,2017-01-30,W,92,47
+1016,Texas Southern,Prairie View,2017-02-04,W,74,61
+1017,Texas Southern,Grambling,2017-02-11,W,77,70
+1018,Texas Southern,Jackson State,2017-02-13,L,62,71
+1019,Texas Southern,Arkansas-Pine Bluff,2017-02-18,W,78,40
+1020,Texas Southern,Mississippi Valley State,2017-02-20,W,92,61
+1021,Texas Southern,Alabama State,2017-02-25,W,86,73
+1022,Texas Southern,Alabama A&M,2017-02-27,W,74,64
+1023,Texas Southern,Alcorn State,2017-03-02,W,94,88
+1024,Texas Southern,Southern,2017-03-04,W,82,69
+1025,Texas Southern,Alabama State,2017-03-07,W,87,72
+1026,Texas Southern,Grambling,2017-03-10,W,62,57
+1027,Texas Southern,Alcorn State,2017-03-11,W,53,50
+1028,Arkansas,IPFW,2016-11-11,W,92,83
+1029,Arkansas,Southern Illinois,2016-11-14,W,90,65
+1030,Arkansas,Texas-Arlington,2016-11-18,W,71,67
+1031,Arkansas,Minnesota,2016-11-22,L,71,85
+1032,Arkansas,Mount St. Mary's,2016-11-28,W,89,76
+1033,Arkansas,Stephen F. Austin,2016-12-01,W,78,62
+1034,Arkansas,Austin Peay,2016-12-03,W,99,62
+1035,Arkansas,Houston,2016-12-06,W,84,72
+1036,Arkansas,North Florida,2016-12-10,W,91,76
+1037,Arkansas,Texas,2016-12-17,W,77,74
+1038,Arkansas,North Dakota State,2016-12-20,W,71,55
+1039,Arkansas,Sam Houston State,2016-12-22,W,90,56
+1040,Arkansas,Florida,2016-12-29,L,72,81
+1041,Arkansas,Tennessee,2017-01-03,W,82,78
+1042,Arkansas,Kentucky,2017-01-07,L,71,97
+1043,Arkansas,Mississippi State,2017-01-10,L,78,84
+1044,Arkansas,Missouri,2017-01-14,W,92,73
+1045,Arkansas,Texas A&M,2017-01-17,W,62,60
+1046,Arkansas,Louisiana State,2017-01-21,W,99,86
+1047,Arkansas,Vanderbilt,2017-01-24,W,71,70
+1048,Arkansas,Oklahoma State,2017-01-28,L,71,99
+1049,Arkansas,Alabama,2017-02-01,W,87,68
+1050,Arkansas,Missouri,2017-02-04,L,78,83
+1051,Arkansas,Vanderbilt,2017-02-07,L,59,72
+1052,Arkansas,Louisiana State,2017-02-11,W,78,70
+1053,Arkansas,South Carolina,2017-02-15,W,83,76
+1054,Arkansas,Mississippi,2017-02-18,W,98,80
+1055,Arkansas,Texas A&M,2017-02-22,W,86,77
+1056,Arkansas,Auburn,2017-02-25,W,79,68
+1057,Arkansas,Florida,2017-03-01,L,65,78
+1058,Arkansas,Georgia,2017-03-04,W,85,67
+1059,Arkansas,Mississippi,2017-03-10,W,73,72
+1060,Arkansas,Vanderbilt,2017-03-11,W,76,62
+1061,Arkansas,Kentucky,2017-03-12,L,65,82
+1062,Seton Hall,Fairleigh Dickinson,2016-11-11,W,91,70
+1063,Seton Hall,Central Connecticut State,2016-11-13,W,82,58
+1064,Seton Hall,Iowa,2016-11-17,W,91,83
+1065,Seton Hall,Florida,2016-11-24,L,76,81
+1066,Seton Hall,Quinnipiac,2016-11-25,W,90,79
+1067,Seton Hall,Stanford,2016-11-27,L,52,66
+1068,Seton Hall,Columbia,2016-12-01,W,95,71
+1069,Seton Hall,Hawaii,2016-12-06,W,68,57
+1070,Seton Hall,University of California,2016-12-07,W,60,57
+1071,Seton Hall,South Carolina,2016-12-12,W,67,64
+1072,Seton Hall,Delaware,2016-12-17,W,81,68
+1073,Seton Hall,Rutgers,2016-12-23,W,72,61
+1074,Seton Hall,Creighton,2016-12-28,L,75,89
+1075,Seton Hall,Marquette,2017-01-01,W,69,66
+1076,Seton Hall,DePaul,2017-01-07,W,87,56
+1077,Seton Hall,Marquette,2017-01-11,L,86,89
+1078,Seton Hall,Providence,2017-01-14,L,61,65
+1079,Seton Hall,Villanova,2017-01-16,L,46,76
+1080,Seton Hall,St. John's (NY),2017-01-22,W,86,73
+1081,Seton Hall,Butler,2017-01-25,L,54,61
+1082,Seton Hall,Xavier,2017-02-01,L,70,72
+1083,Seton Hall,Georgetown,2017-02-04,W,68,66
+1084,Seton Hall,Providence,2017-02-08,W,72,70
+1085,Seton Hall,St. John's (NY),2017-02-11,L,70,78
+1086,Seton Hall,Creighton,2017-02-15,W,87,81
+1087,Seton Hall,Villanova,2017-02-18,L,70,92
+1088,Seton Hall,Xavier,2017-02-22,W,71,64
+1089,Seton Hall,DePaul,2017-02-25,W,82,79
+1090,Seton Hall,Georgetown,2017-02-28,W,62,59
+1091,Seton Hall,Butler,2017-03-04,W,70,64
+1092,Seton Hall,Marquette,2017-03-09,W,82,76
+1093,Seton Hall,Villanova,2017-03-10,L,53,55
+1094,Minnesota,Louisiana-Lafayette,2016-11-11,W,86,74
+1095,Minnesota,Texas-Arlington,2016-11-14,W,84,67
+1096,Minnesota,Mount St. Mary's,2016-11-16,W,80,56
+1097,Minnesota,St. John's (NY),2016-11-18,W,92,86
+1098,Minnesota,Arkansas,2016-11-22,W,85,71
+1099,Minnesota,Southern Illinois,2016-11-25,W,57,45
+1100,Minnesota,Florida State,2016-11-28,L,67,75
+1101,Minnesota,Vanderbilt,2016-12-03,W,56,52
+1102,Minnesota,NJIT,2016-12-06,W,74,68
+1103,Minnesota,Georgia Southern,2016-12-09,W,86,49
+1104,Minnesota,Northern Illinois,2016-12-11,W,77,57
+1105,Minnesota,Long Island University,2016-12-14,W,76,66
+1106,Minnesota,Arkansas State,2016-12-23,W,82,75
+1107,Minnesota,Michigan State,2016-12-27,L,74,75
+1108,Minnesota,Purdue,2017-01-01,W,91,82
+1109,Minnesota,Northwestern,2017-01-05,W,70,66
+1110,Minnesota,Ohio State,2017-01-08,W,78,68
+1111,Minnesota,Michigan State,2017-01-11,L,47,65
+1112,Minnesota,Penn State,2017-01-14,L,50,52
+1113,Minnesota,Wisconsin,2017-01-21,L,76,78
+1114,Minnesota,Ohio State,2017-01-25,L,72,78
+1115,Minnesota,Maryland,2017-01-28,L,78,85
+1116,Minnesota,Illinois,2017-02-04,W,68,59
+1117,Minnesota,Iowa,2017-02-08,W,101,89
+1118,Minnesota,Rutgers,2017-02-11,W,72,63
+1119,Minnesota,Indiana,2017-02-15,W,75,74
+1120,Minnesota,Michigan,2017-02-19,W,83,78
+1121,Minnesota,Maryland,2017-02-22,W,89,75
+1122,Minnesota,Penn State,2017-02-25,W,81,71
+1123,Minnesota,Nebraska,2017-03-02,W,88,73
+1124,Minnesota,Wisconsin,2017-03-05,L,49,66
+1125,Minnesota,Michigan State,2017-03-10,W,63,58
+1126,Minnesota,Michigan,2017-03-11,L,77,84
+1127,Middle Tennessee,Milligan,2016-11-11,W,102,64
+1128,Middle Tennessee,Murray State,2016-11-15,W,87,81
+1129,Middle Tennessee,Tennessee State,2016-11-19,L,63,74
+1130,Middle Tennessee,Toledo,2016-11-22,W,80,70
+1131,Middle Tennessee,North Carolina-Wilmington,2016-11-25,W,68,63
+1132,Middle Tennessee,Toledo,2016-11-26,W,73,70
+1133,Middle Tennessee,Evansville,2016-11-27,W,66,55
+1134,Middle Tennessee,Mississippi,2016-11-30,W,77,62
+1135,Middle Tennessee,South Alabama,2016-12-03,W,67,55
+1136,Middle Tennessee,Vanderbilt,2016-12-08,W,71,48
+1137,Middle Tennessee,Belmont,2016-12-14,W,79,66
+1138,Middle Tennessee,Virginia Commonwealth,2016-12-17,L,77,80
+1139,Middle Tennessee,Georgia State,2016-12-21,L,56,64
+1140,Middle Tennessee,Alabama-Birmingham,2017-01-01,W,60,49
+1141,Middle Tennessee,Rice,2017-01-05,W,80,77
+1142,Middle Tennessee,North Texas,2017-01-07,W,79,68
+1143,Middle Tennessee,Marshall,2017-01-12,W,69,57
+1144,Middle Tennessee,Western Kentucky,2017-01-14,W,91,76
+1145,Middle Tennessee,Florida International,2017-01-19,W,65,52
+1146,Middle Tennessee,Florida Atlantic,2017-01-21,W,86,57
+1147,Middle Tennessee,Southern Mississippi,2017-01-26,W,72,56
+1148,Middle Tennessee,Louisiana Tech,2017-01-28,W,71,61
+1149,Middle Tennessee,Texas-San Antonio,2017-02-02,W,69,59
+1150,Middle Tennessee,Texas-El Paso,2017-02-04,L,54,57
+1151,Middle Tennessee,Old Dominion,2017-02-09,W,64,51
+1152,Middle Tennessee,Charlotte,2017-02-11,W,70,55
+1153,Middle Tennessee,Western Kentucky,2017-02-16,W,78,52
+1154,Middle Tennessee,Marshall,2017-02-18,W,97,86
+1155,Middle Tennessee,Alabama-Birmingham,2017-02-26,W,66,64
+1156,Middle Tennessee,Florida International,2017-03-02,W,70,67
+1157,Middle Tennessee,Florida Atlantic,2017-03-04,W,93,59
+1158,Middle Tennessee,Texas-San Antonio,2017-03-09,W,86,70
+1159,Middle Tennessee,Texas-El Paso,2017-03-10,W,82,56
+1160,Middle Tennessee,Marshall,2017-03-11,W,83,72
+1161,Butler,Northern Colorado,2016-11-12,W,89,52
+1162,Butler,Northwestern,2016-11-16,W,70,68
+1163,Butler,Bucknell,2016-11-19,W,86,60
+1164,Butler,Norfolk State,2016-11-21,W,91,55
+1165,Butler,Vanderbilt,2016-11-24,W,76,66
+1166,Butler,Arizona,2016-11-25,W,69,65
+1167,Butler,Utah,2016-11-28,W,68,59
+1168,Butler,Central Arkansas,2016-12-03,W,82,58
+1169,Butler,Indiana State,2016-12-07,L,71,72
+1170,Butler,Cincinnati,2016-12-10,W,75,65
+1171,Butler,Indiana,2016-12-17,W,83,78
+1172,Butler,Vermont,2016-12-21,W,81,69
+1173,Butler,St. John's (NY),2016-12-29,L,73,76
+1174,Butler,Providence,2017-01-01,W,78,61
+1175,Butler,Villanova,2017-01-04,W,66,58
+1176,Butler,Georgetown,2017-01-07,W,85,76
+1177,Butler,Creighton,2017-01-11,L,64,75
+1178,Butler,Xavier,2017-01-14,W,83,78
+1179,Butler,Marquette,2017-01-16,W,88,80
+1180,Butler,DePaul,2017-01-21,W,70,69
+1181,Butler,Seton Hall,2017-01-25,W,61,54
+1182,Butler,Georgetown,2017-01-28,L,81,85
+1183,Butler,Creighton,2017-01-31,L,67,76
+1184,Butler,Marquette,2017-02-07,W,68,65
+1185,Butler,Providence,2017-02-11,L,65,71
+1186,Butler,St. John's (NY),2017-02-15,W,110,86
+1187,Butler,DePaul,2017-02-19,W,82,66
+1188,Butler,Villanova,2017-02-22,W,74,66
+1189,Butler,Xavier,2017-02-26,W,88,79
+1190,Butler,Seton Hall,2017-03-04,L,64,70
+1191,Butler,Xavier,2017-03-09,L,57,62
+1192,Winthrop,Ferrum,2016-11-12,W,66,47
+1193,Winthrop,Manhattan,2016-11-15,W,94,81
+1194,Winthrop,Florida State,2016-11-18,L,86,100
+1195,Winthrop,Illinois,2016-11-21,W,84,80
+1196,Winthrop,New Hampshire,2016-11-27,L,60,65
+1197,Winthrop,Furman,2016-11-30,W,58,57
+1198,Winthrop,Dayton,2016-12-03,L,67,83
+1199,Winthrop,Greensboro,2016-12-06,W,106,63
+1200,Winthrop,Hampton,2016-12-17,W,86,79
+1201,Winthrop,Georgia Southern,2016-12-20,W,86,84
+1202,Winthrop,Saint Louis,2016-12-22,W,66,55
+1203,Winthrop,Charleston Southern,2016-12-29,W,84,68
+1204,Winthrop,Radford,2016-12-31,L,80,82
+1205,Winthrop,High Point,2017-01-04,W,80,74
+1206,Winthrop,Longwood,2017-01-07,W,83,65
+1207,Winthrop,Presbyterian,2017-01-11,W,75,52
+1208,Winthrop,Campbell,2017-01-14,W,72,63
+1209,Winthrop,North Carolina-Asheville,2017-01-19,W,76,73
+1210,Winthrop,Liberty,2017-01-21,W,61,48
+1211,Winthrop,Gardner-Webb,2017-01-26,W,72,70
+1212,Winthrop,High Point,2017-01-28,L,80,83
+1213,Winthrop,Radford,2017-02-01,W,81,65
+1214,Winthrop,Campbell,2017-02-04,W,76,62
+1215,Winthrop,North Carolina-Asheville,2017-02-09,L,101,104
+1216,Winthrop,Gardner-Webb,2017-02-11,W,77,71
+1217,Winthrop,Longwood,2017-02-15,W,83,63
+1218,Winthrop,Liberty,2017-02-18,W,84,67
+1219,Winthrop,Charleston Southern,2017-02-23,W,86,72
+1220,Winthrop,Presbyterian,2017-02-25,W,93,56
+1221,Winthrop,Charleston Southern,2017-03-02,W,92,78
+1222,Winthrop,Gardner-Webb,2017-03-03,W,80,77
+1223,Winthrop,Campbell,2017-03-05,W,76,59
+1224,Cincinnati,Brown,2016-11-11,W,84,55
+1225,Cincinnati,Albany (NY),2016-11-14,W,74,51
+1226,Cincinnati,Rhode Island,2016-11-19,L,71,76
+1227,Cincinnati,Penn State,2016-11-20,W,71,50
+1228,Cincinnati,Samford,2016-11-23,W,70,55
+1229,Cincinnati,Lipscomb,2016-11-26,W,91,68
+1230,Cincinnati,Iowa State,2016-12-01,W,55,54
+1231,Cincinnati,Bowling Green State,2016-12-04,W,85,56
+1232,Cincinnati,Butler,2016-12-10,L,65,75
+1233,Cincinnati,Texas Southern,2016-12-13,W,96,58
+1234,Cincinnati,Fairleigh Dickinson,2016-12-17,W,119,68
+1235,Cincinnati,Marshall,2016-12-22,W,93,91
+1236,Cincinnati,Temple,2016-12-28,W,56,50
+1237,Cincinnati,Tulane,2017-01-01,W,92,56
+1238,Cincinnati,Houston,2017-01-07,W,67,58
+1239,Cincinnati,Southern Methodist,2017-01-12,W,66,64
+1240,Cincinnati,East Carolina,2017-01-15,W,55,46
+1241,Cincinnati,Temple,2017-01-18,W,81,74
+1242,Cincinnati,Tulane,2017-01-21,W,78,61
+1243,Cincinnati,Xavier,2017-01-26,W,86,78
+1244,Cincinnati,South Florida,2017-01-29,W,94,53
+1245,Cincinnati,Tulsa,2017-02-01,W,57,55
+1246,Cincinnati,Connecticut,2017-02-04,W,82,68
+1247,Cincinnati,Central Florida,2017-02-08,W,60,50
+1248,Cincinnati,Southern Methodist,2017-02-12,L,51,60
+1249,Cincinnati,South Florida,2017-02-15,W,68,54
+1250,Cincinnati,Tulsa,2017-02-18,W,80,60
+1251,Cincinnati,Memphis,2017-02-23,W,87,74
+1252,Cincinnati,Central Florida,2017-02-26,L,49,53
+1253,Cincinnati,Houston,2017-03-02,W,65,47
+1254,Cincinnati,Connecticut,2017-03-05,W,67,47
+1255,Cincinnati,Tulsa,2017-03-10,W,80,61
+1256,Cincinnati,Connecticut,2017-03-11,W,81,71
+1257,UCLA,Pacific,2016-11-11,W,119,80
+1258,UCLA,Cal State Northridge,2016-11-13,W,102,87
+1259,UCLA,San Diego,2016-11-17,W,88,68
+1260,UCLA,Long Beach State,2016-11-20,W,114,77
+1261,UCLA,Portland,2016-11-24,W,99,77
+1262,UCLA,Nebraska,2016-11-25,W,82,71
+1263,UCLA,Texas A&M,2016-11-27,W,74,67
+1264,UCLA,UC-Riverside,2016-11-30,W,98,56
+1265,UCLA,Kentucky,2016-12-03,W,97,92
+1266,UCLA,Michigan,2016-12-10,W,102,84
+1267,UCLA,UC-Santa Barbara,2016-12-14,W,102,62
+1268,UCLA,Ohio State,2016-12-17,W,86,73
+1269,UCLA,Western Michigan,2016-12-21,W,82,68
+1270,UCLA,Oregon,2016-12-28,L,87,89
+1271,UCLA,Oregon State,2016-12-30,W,76,63
+1272,UCLA,University of California,2017-01-05,W,81,71
+1273,UCLA,Stanford,2017-01-08,W,89,75
+1274,UCLA,Colorado,2017-01-12,W,104,89
+1275,UCLA,Utah,2017-01-14,W,83,82
+1276,UCLA,Arizona State,2017-01-19,W,102,80
+1277,UCLA,Arizona,2017-01-21,L,85,96
+1278,UCLA,Southern California,2017-01-25,L,76,84
+1279,UCLA,Washington State,2017-02-01,W,95,79
+1280,UCLA,Washington,2017-02-04,W,107,66
+1281,UCLA,Oregon,2017-02-09,W,82,79
+1282,UCLA,Oregon State,2017-02-12,W,78,60
+1283,UCLA,Southern California,2017-02-18,W,102,70
+1284,UCLA,Arizona State,2017-02-23,W,87,75
+1285,UCLA,Arizona,2017-02-25,W,77,72
+1286,UCLA,Washington,2017-03-01,W,98,66
+1287,UCLA,Washington State,2017-03-04,W,77,68
+1288,UCLA,Southern California,2017-03-09,W,76,74
+1289,UCLA,Arizona,2017-03-10,L,75,86
+1290,Kent State,Cleveland State,2016-11-12,W,79,74
+1291,Kent State,Mississippi Valley State,2016-11-16,W,93,63
+1292,Kent State,Hiram,2016-11-18,W,111,55
+1293,Kent State,South Dakota,2016-11-21,L,77,80
+1294,Kent State,George Mason,2016-11-22,L,75,79
+1295,Kent State,Wofford,2016-11-23,W,66,59
+1296,Kent State,Northeastern,2016-11-27,L,70,73
+1297,Kent State,Grambling,2016-12-02,W,86,57
+1298,Kent State,Niagara,2016-12-07,W,100,72
+1299,Kent State,NJIT,2016-12-10,W,87,71
+1300,Kent State,Wright State,2016-12-18,L,63,68
+1301,Kent State,Oregon State,2016-12-21,L,50,69
+1302,Kent State,Texas,2016-12-27,W,63,58
+1303,Kent State,Ball State,2017-01-03,W,100,90
+1304,Kent State,Ohio,2017-01-06,L,67,85
+1305,Kent State,Northern Illinois,2017-01-10,L,70,74
+1306,Kent State,Western Michigan,2017-01-14,L,88,92
+1307,Kent State,Buffalo,2017-01-17,L,69,82
+1308,Kent State,Toledo,2017-01-21,W,85,61
+1309,Kent State,Northern Illinois,2017-01-24,W,73,66
+1310,Kent State,Central Michigan,2017-01-28,L,98,105
+1311,Kent State,Eastern Michigan,2017-01-31,W,70,64
+1312,Kent State,Miami (OH),2017-02-04,W,66,62
+1313,Kent State,Bowling Green State,2017-02-07,L,83,84
+1314,Kent State,Toledo,2017-02-11,L,58,78
+1315,Kent State,Miami (OH),2017-02-14,W,76,72
+1316,Kent State,Akron,2017-02-17,W,70,67
+1317,Kent State,Buffalo,2017-02-21,W,77,69
+1318,Kent State,Ohio,2017-02-25,W,70,67
+1319,Kent State,Bowling Green State,2017-02-28,W,74,67
+1320,Kent State,Akron,2017-03-03,L,56,66
+1321,Kent State,Central Michigan,2017-03-06,W,116,106
+1322,Kent State,Buffalo,2017-03-09,W,68,65
+1323,Kent State,Ohio,2017-03-10,W,68,66
+1324,Kent State,Akron,2017-03-11,W,70,65
+1325,Dayton,Austin Peay,2016-11-11,W,96,68
+1326,Dayton,Alabama,2016-11-15,W,77,72
+1327,Dayton,Saint Mary's (CA),2016-11-19,L,57,61
+1328,Dayton,Nebraska,2016-11-24,L,78,80
+1329,Dayton,Portland,2016-11-25,W,84,74
+1330,Dayton,New Mexico,2016-11-27,W,64,57
+1331,Dayton,Winthrop,2016-12-03,W,83,67
+1332,Dayton,Saint Joseph's (IN),2016-12-06,W,91,59
+1333,Dayton,East Tennessee State,2016-12-10,W,75,61
+1334,Dayton,Northwestern,2016-12-17,L,64,67
+1335,Dayton,Vanderbilt,2016-12-21,W,68,63
+1336,Dayton,Virginia Military Institute,2016-12-23,W,92,56
+1337,Dayton,La Salle,2016-12-30,W,66,55
+1338,Dayton,St. Bonaventure,2017-01-03,W,90,74
+1339,Dayton,Rhode Island,2017-01-06,W,67,64
+1340,Dayton,Massachusetts,2017-01-11,L,55,67
+1341,Dayton,Duquesne,2017-01-14,W,76,57
+1342,Dayton,Richmond,2017-01-19,W,75,59
+1343,Dayton,Saint Louis,2017-01-22,W,67,46
+1344,Dayton,Virginia Commonwealth,2017-01-27,L,68,73
+1345,Dayton,Fordham,2017-01-31,W,75,66
+1346,Dayton,Duquesne,2017-02-04,W,90,53
+1347,Dayton,Saint Joseph's,2017-02-07,W,77,70
+1348,Dayton,Rhode Island,2017-02-10,W,75,74
+1349,Dayton,Saint Louis,2017-02-14,W,85,63
+1350,Dayton,St. Bonaventure,2017-02-18,W,76,72
+1351,Dayton,George Mason,2017-02-21,W,83,70
+1352,Dayton,Davidson,2017-02-24,W,89,82
+1353,Dayton,Virginia Commonwealth,2017-03-01,W,79,72
+1354,Dayton,George Washington,2017-03-04,L,81,87
+1355,Dayton,Davidson,2017-03-10,L,67,73
+1356,Wichita State,South Carolina State,2016-11-11,W,85,39
+1357,Wichita State,Long Beach State,2016-11-13,W,92,55
+1358,Wichita State,Tulsa,2016-11-16,W,80,53
+1359,Wichita State,Maryland-Eastern Shore,2016-11-20,W,116,79
+1360,Wichita State,Louisiana State,2016-11-23,W,82,47
+1361,Wichita State,Louisville,2016-11-24,L,52,62
+1362,Wichita State,Michigan State,2016-11-25,L,72,77
+1363,Wichita State,Southern Nazarene,2016-11-29,W,87,57
+1364,Wichita State,Colorado State,2016-12-03,W,82,67
+1365,Wichita State,Saint Louis,2016-12-06,W,75,45
+1366,Wichita State,Oklahoma,2016-12-10,W,76,73
+1367,Wichita State,Oklahoma State,2016-12-17,L,76,93
+1368,Wichita State,South Dakota State,2016-12-22,W,89,67
+1369,Wichita State,Indiana State,2016-12-28,W,80,72
+1370,Wichita State,Bradley,2017-01-01,W,100,66
+1371,Wichita State,Drake,2017-01-04,W,90,65
+1372,Wichita State,Northern Iowa,2017-01-08,W,80,66
+1373,Wichita State,Loyola (IL),2017-01-11,W,87,75
+1374,Wichita State,Illinois State,2017-01-14,L,62,76
+1375,Wichita State,Evansville,2017-01-17,W,82,65
+1376,Wichita State,Indiana State,2017-01-21,W,84,58
+1377,Wichita State,Southern Illinois,2017-01-24,W,87,45
+1378,Wichita State,Bradley,2017-01-29,W,64,49
+1379,Wichita State,Drake,2017-02-01,W,77,69
+1380,Wichita State,Illinois State,2017-02-04,W,86,45
+1381,Wichita State,Missouri State,2017-02-09,W,80,62
+1382,Wichita State,Loyola (IL),2017-02-12,W,81,64
+1383,Wichita State,Southern Illinois,2017-02-15,W,87,68
+1384,Wichita State,Northern Iowa,2017-02-18,W,73,44
+1385,Wichita State,Evansville,2017-02-21,W,109,83
+1386,Wichita State,Missouri State,2017-02-25,W,86,67
+1387,Wichita State,Bradley,2017-03-03,W,82,56
+1388,Wichita State,Missouri State,2017-03-04,W,78,63
+1389,Wichita State,Illinois State,2017-03-05,W,71,51
+1390,Kentucky,Stephen F. Austin,2016-11-11,W,87,64
+1391,Kentucky,Canisius,2016-11-13,W,93,69
+1392,Kentucky,Michigan State,2016-11-15,W,69,48
+1393,Kentucky,Duquesne,2016-11-20,W,93,59
+1394,Kentucky,Cleveland State,2016-11-23,W,101,70
+1395,Kentucky,Tennessee-Martin,2016-11-25,W,111,76
+1396,Kentucky,Arizona State,2016-11-28,W,115,69
+1397,Kentucky,UCLA,2016-12-03,L,92,97
+1398,Kentucky,Valparaiso,2016-12-07,W,87,63
+1399,Kentucky,Hofstra,2016-12-11,W,96,73
+1400,Kentucky,North Carolina,2016-12-17,W,103,100
+1401,Kentucky,Louisville,2016-12-21,L,70,73
+1402,Kentucky,Mississippi,2016-12-29,W,99,76
+1403,Kentucky,Texas A&M,2017-01-03,W,100,58
+1404,Kentucky,Arkansas,2017-01-07,W,97,71
+1405,Kentucky,Vanderbilt,2017-01-10,W,87,81
+1406,Kentucky,Auburn,2017-01-14,W,92,72
+1407,Kentucky,Mississippi State,2017-01-17,W,88,81
+1408,Kentucky,South Carolina,2017-01-21,W,85,69
+1409,Kentucky,Tennessee,2017-01-24,L,80,82
+1410,Kentucky,Kansas,2017-01-28,L,73,79
+1411,Kentucky,Georgia,2017-01-31,W,90,81
+1412,Kentucky,Florida,2017-02-04,L,66,88
+1413,Kentucky,Louisiana State,2017-02-07,W,92,85
+1414,Kentucky,Alabama,2017-02-11,W,67,58
+1415,Kentucky,Tennessee,2017-02-14,W,83,58
+1416,Kentucky,Georgia,2017-02-18,W,82,77
+1417,Kentucky,Missouri,2017-02-21,W,72,62
+1418,Kentucky,Florida,2017-02-25,W,76,66
+1419,Kentucky,Vanderbilt,2017-02-28,W,73,67
+1420,Kentucky,Texas A&M,2017-03-04,W,71,63
+1421,Kentucky,Georgia,2017-03-10,W,71,60
+1422,Kentucky,Alabama,2017-03-11,W,79,74
+1423,Kentucky,Arkansas,2017-03-12,W,82,65
+1424,Northern Kentucky,Earlham,2016-11-11,W,96,56
+1425,Northern Kentucky,Illinois,2016-11-13,L,64,79
+1426,Northern Kentucky,Austin Peay,2016-11-18,L,69,77
+1427,Northern Kentucky,Delaware,2016-11-19,W,74,53
+1428,Northern Kentucky,Miami (OH),2016-11-20,W,79,70
+1429,Northern Kentucky,North Carolina Central,2016-11-26,L,74,82
+1430,Northern Kentucky,Morehead State,2016-11-30,W,84,79
+1431,Northern Kentucky,Norfolk State,2016-12-03,W,72,61
+1432,Northern Kentucky,Eastern Illinois,2016-12-07,W,80,70
+1433,Northern Kentucky,Southeast Missouri State,2016-12-10,W,80,66
+1434,Northern Kentucky,Eastern Washington,2016-12-18,W,70,48
+1435,Northern Kentucky,Brescia,2016-12-21,W,97,73
+1436,Northern Kentucky,West Virginia,2016-12-23,L,61,92
+1437,Northern Kentucky,Detroit Mercy,2016-12-29,W,81,70
+1438,Northern Kentucky,Oakland,2016-12-31,L,65,76
+1439,Northern Kentucky,Youngstown State,2017-01-05,W,83,70
+1440,Northern Kentucky,Cleveland State,2017-01-07,W,83,75
+1441,Northern Kentucky,Green Bay,2017-01-10,L,71,80
+1442,Northern Kentucky,Milwaukee,2017-01-12,L,58,68
+1443,Northern Kentucky,Oakland,2017-01-20,L,70,79
+1444,Northern Kentucky,Detroit Mercy,2017-01-22,W,101,87
+1445,Northern Kentucky,Illinois-Chicago,2017-01-27,W,79,62
+1446,Northern Kentucky,Valparaiso,2017-01-29,L,58,65
+1447,Northern Kentucky,Wright State,2017-02-04,W,83,79
+1448,Northern Kentucky,Green Bay,2017-02-09,W,69,67
+1449,Northern Kentucky,Milwaukee,2017-02-11,W,69,63
+1450,Northern Kentucky,Cleveland State,2017-02-16,W,62,60
+1451,Northern Kentucky,Youngstown State,2017-02-18,L,77,81
+1452,Northern Kentucky,Wright State,2017-02-21,W,83,76
+1453,Northern Kentucky,Illinois-Chicago,2017-02-24,W,90,82
+1454,Northern Kentucky,Valparaiso,2017-02-26,W,82,78
+1455,Northern Kentucky,Wright State,2017-03-05,W,82,77
+1456,Northern Kentucky,Youngstown State,2017-03-06,W,84,74
+1457,Northern Kentucky,Milwaukee,2017-03-07,W,59,53
+1458,Gonzaga,Utah Valley,2016-11-11,W,92,69
+1459,Gonzaga,San Diego State,2016-11-14,W,69,48
+1460,Gonzaga,Bryant,2016-11-18,W,109,70
+1461,Gonzaga,Quinnipiac,2016-11-24,W,82,62
+1462,Gonzaga,Florida,2016-11-25,W,77,72
+1463,Gonzaga,Iowa State,2016-11-27,W,73,71
+1464,Gonzaga,Mississippi Valley State,2016-12-01,W,97,63
+1465,Gonzaga,Arizona,2016-12-03,W,69,62
+1466,Gonzaga,Washington,2016-12-07,W,98,71
+1467,Gonzaga,Akron,2016-12-10,W,61,43
+1468,Gonzaga,Tennessee,2016-12-18,W,86,76
+1469,Gonzaga,South Dakota,2016-12-21,W,102,65
+1470,Gonzaga,Pepperdine,2016-12-29,W,92,62
+1471,Gonzaga,Pacific,2016-12-31,W,81,61
+1472,Gonzaga,San Francisco,2017-01-05,W,95,80
+1473,Gonzaga,Loyola Marymount,2017-01-12,W,93,55
+1474,Gonzaga,Saint Mary's (CA),2017-01-14,W,79,56
+1475,Gonzaga,Santa Clara,2017-01-19,W,88,57
+1476,Gonzaga,Portland,2017-01-21,W,73,52
+1477,Gonzaga,Portland,2017-01-23,W,83,64
+1478,Gonzaga,San Diego,2017-01-26,W,79,43
+1479,Gonzaga,Pepperdine,2017-01-28,W,96,49
+1480,Gonzaga,Brigham Young,2017-02-02,W,85,75
+1481,Gonzaga,Santa Clara,2017-02-04,W,90,55
+1482,Gonzaga,Loyola Marymount,2017-02-09,W,90,60
+1483,Gonzaga,Saint Mary's (CA),2017-02-11,W,74,64
+1484,Gonzaga,San Francisco,2017-02-16,W,96,61
+1485,Gonzaga,Pacific,2017-02-18,W,82,61
+1486,Gonzaga,San Diego,2017-02-23,W,96,38
+1487,Gonzaga,Brigham Young,2017-02-25,L,71,79
+1488,Gonzaga,Pacific,2017-03-04,W,82,50
+1489,Gonzaga,Santa Clara,2017-03-06,W,77,68
+1490,Gonzaga,Saint Mary's (CA),2017-03-07,W,74,56
+1491,South Dakota State,University of California,2016-11-11,L,53,82
+1492,South Dakota State,UC-Irvine,2016-11-14,L,58,73
+1493,South Dakota State,Wayne State (NE),2016-11-16,W,80,72
+1494,South Dakota State,Wyoming,2016-11-19,L,67,77
+1495,South Dakota State,Idaho,2016-11-21,L,89,96
+1496,South Dakota State,UC-Irvine,2016-11-25,L,52,63
+1497,South Dakota State,East Tennessee State,2016-11-26,L,59,71
+1498,South Dakota State,Milwaukee,2016-11-27,W,81,58
+1499,South Dakota State,Minnesota-Crookston,2016-11-30,W,90,58
+1500,South Dakota State,Missouri-Kansas City,2016-12-03,W,77,68
+1501,South Dakota State,Northern Iowa,2016-12-07,L,58,86
+1502,South Dakota State,Idaho,2016-12-10,W,80,77
+1503,South Dakota State,Murray State,2016-12-17,W,88,84
+1504,South Dakota State,Drake,2016-12-19,W,83,75
+1505,South Dakota State,Wichita State,2016-12-22,L,67,89
+1506,South Dakota State,North Dakota State,2016-12-28,L,69,80
+1507,South Dakota State,South Dakota,2016-12-31,W,73,72
+1508,South Dakota State,Western Illinois,2017-01-04,L,74,82
+1509,South Dakota State,Nebraska-Omaha,2017-01-07,L,93,101
+1510,South Dakota State,Oral Roberts,2017-01-12,L,88,94
+1511,South Dakota State,IUPUI,2017-01-18,L,83,85
+1512,South Dakota State,IPFW,2017-01-21,W,77,67
+1513,South Dakota State,Denver,2017-01-25,L,82,91
+1514,South Dakota State,Nebraska-Omaha,2017-01-28,W,88,84
+1515,South Dakota State,Western Illinois,2017-02-01,W,98,65
+1516,South Dakota State,Oral Roberts,2017-02-04,W,74,67
+1517,South Dakota State,North Dakota State,2017-02-08,L,65,82
+1518,South Dakota State,South Dakota,2017-02-11,L,89,91
+1519,South Dakota State,IUPUI,2017-02-15,W,81,67
+1520,South Dakota State,IPFW,2017-02-18,W,97,89
+1521,South Dakota State,Denver,2017-02-25,W,88,64
+1522,South Dakota State,Denver,2017-03-05,W,83,73
+1523,South Dakota State,South Dakota,2017-03-06,W,74,71
+1524,South Dakota State,Nebraska-Omaha,2017-03-07,W,79,77
+1525,Northwestern,Mississippi Valley State,2016-11-11,W,94,63
+1526,Northwestern,Eastern Washington,2016-11-14,W,86,72
+1527,Northwestern,Butler,2016-11-16,L,68,70
+1528,Northwestern,Texas,2016-11-21,W,77,58
+1529,Northwestern,Notre Dame,2016-11-22,L,66,70
+1530,Northwestern,Bryant,2016-11-25,W,86,66
+1531,Northwestern,Wake Forest,2016-11-28,W,65,58
+1532,Northwestern,DePaul,2016-12-03,W,80,64
+1533,Northwestern,New Orleans,2016-12-11,W,83,49
+1534,Northwestern,Chicago State,2016-12-14,W,68,64
+1535,Northwestern,Dayton,2016-12-17,W,67,64
+1536,Northwestern,IUPUI,2016-12-20,W,87,65
+1537,Northwestern,Houston Baptist,2016-12-22,W,72,63
+1538,Northwestern,Penn State,2016-12-27,W,87,77
+1539,Northwestern,Michigan State,2016-12-30,L,52,61
+1540,Northwestern,Minnesota,2017-01-05,L,66,70
+1541,Northwestern,Nebraska,2017-01-08,W,74,66
+1542,Northwestern,Rutgers,2017-01-12,W,69,60
+1543,Northwestern,Iowa,2017-01-15,W,89,54
+1544,Northwestern,Ohio State,2017-01-22,W,74,72
+1545,Northwestern,Nebraska,2017-01-26,W,73,61
+1546,Northwestern,Indiana,2017-01-29,W,68,55
+1547,Northwestern,Purdue,2017-02-01,L,59,80
+1548,Northwestern,Illinois,2017-02-07,L,61,68
+1549,Northwestern,Wisconsin,2017-02-12,W,66,59
+1550,Northwestern,Maryland,2017-02-15,L,64,74
+1551,Northwestern,Rutgers,2017-02-18,W,69,65
+1552,Northwestern,Illinois,2017-02-21,L,50,66
+1553,Northwestern,Indiana,2017-02-25,L,62,63
+1554,Northwestern,Michigan,2017-03-01,W,67,65
+1555,Northwestern,Purdue,2017-03-05,L,65,69
+1556,Northwestern,Rutgers,2017-03-09,W,83,61
+1557,Northwestern,Maryland,2017-03-10,W,72,64
+1558,Northwestern,Wisconsin,2017-03-11,L,48,76
+1559,Vanderbilt,Marquette,2016-11-11,L,71,95
+1560,Vanderbilt,Belmont,2016-11-15,W,80,66
+1561,Vanderbilt,Norfolk State,2016-11-18,W,75,52
+1562,Vanderbilt,Bucknell,2016-11-21,L,72,75
+1563,Vanderbilt,Butler,2016-11-24,L,66,76
+1564,Vanderbilt,Santa Clara,2016-11-25,W,76,66
+1565,Vanderbilt,Tennessee State,2016-11-29,W,83,59
+1566,Vanderbilt,Minnesota,2016-12-03,L,52,56
+1567,Vanderbilt,High Point,2016-12-06,W,90,63
+1568,Vanderbilt,Middle Tennessee,2016-12-08,L,48,71
+1569,Vanderbilt,Chattanooga,2016-12-17,W,76,74
+1570,Vanderbilt,Dayton,2016-12-21,L,63,68
+1571,Vanderbilt,Louisiana State,2016-12-29,W,96,89
+1572,Vanderbilt,Auburn,2017-01-04,W,80,61
+1573,Vanderbilt,Alabama,2017-01-07,L,56,59
+1574,Vanderbilt,Kentucky,2017-01-10,L,81,87
+1575,Vanderbilt,Tennessee,2017-01-14,L,75,87
+1576,Vanderbilt,Georgia,2017-01-17,L,68,76
+1577,Vanderbilt,Florida,2017-01-21,W,68,66
+1578,Vanderbilt,Arkansas,2017-01-24,L,70,71
+1579,Vanderbilt,Iowa State,2017-01-28,W,84,78
+1580,Vanderbilt,Texas A&M,2017-01-31,W,68,54
+1581,Vanderbilt,Mississippi,2017-02-04,L,74,81
+1582,Vanderbilt,Arkansas,2017-02-07,W,72,59
+1583,Vanderbilt,Missouri,2017-02-11,L,52,72
+1584,Vanderbilt,Texas A&M,2017-02-16,W,72,67
+1585,Vanderbilt,South Carolina,2017-02-18,W,71,62
+1586,Vanderbilt,Tennessee,2017-02-22,W,67,56
+1587,Vanderbilt,Mississippi State,2017-02-25,W,77,48
+1588,Vanderbilt,Kentucky,2017-02-28,L,67,73
+1589,Vanderbilt,Florida,2017-03-04,W,73,71
+1590,Vanderbilt,Texas A&M,2017-03-09,W,66,41
+1591,Vanderbilt,Florida,2017-03-10,W,72,62
+1592,Vanderbilt,Arkansas,2017-03-11,L,62,76
+1593,Notre Dame,Bryant,2016-11-12,W,89,64
+1594,Notre Dame,Seattle,2016-11-16,W,92,49
+1595,Notre Dame,Loyola (MD),2016-11-18,W,83,48
+1596,Notre Dame,Colorado,2016-11-21,W,89,83
+1597,Notre Dame,Northwestern,2016-11-22,W,70,66
+1598,Notre Dame,Chicago State,2016-11-26,W,91,60
+1599,Notre Dame,Iowa,2016-11-29,W,92,78
+1600,Notre Dame,North Carolina A&T,2016-12-04,W,107,53
+1601,Notre Dame,IPFW,2016-12-06,W,87,72
+1602,Notre Dame,Villanova,2016-12-10,L,66,74
+1603,Notre Dame,Purdue,2016-12-17,L,81,86
+1604,Notre Dame,Colgate,2016-12-19,W,77,62
+1605,Notre Dame,Saint Peter's,2016-12-28,W,63,55
+1606,Notre Dame,Pittsburgh,2016-12-31,W,78,77
+1607,Notre Dame,Louisville,2017-01-04,W,77,70
+1608,Notre Dame,Clemson,2017-01-07,W,75,70
+1609,Notre Dame,Miami (FL),2017-01-12,W,67,62
+1610,Notre Dame,Virginia Tech,2017-01-14,W,76,71
+1611,Notre Dame,Florida State,2017-01-18,L,80,83
+1612,Notre Dame,Syracuse,2017-01-21,W,84,66
+1613,Notre Dame,Virginia,2017-01-24,L,54,71
+1614,Notre Dame,Georgia Tech,2017-01-28,L,60,62
+1615,Notre Dame,Duke,2017-01-30,L,74,84
+1616,Notre Dame,North Carolina,2017-02-05,L,76,83
+1617,Notre Dame,Wake Forest,2017-02-07,W,88,81
+1618,Notre Dame,Florida State,2017-02-11,W,84,72
+1619,Notre Dame,Boston College,2017-02-14,W,84,76
+1620,Notre Dame,North Carolina State,2017-02-18,W,81,72
+1621,Notre Dame,Georgia Tech,2017-02-26,W,64,60
+1622,Notre Dame,Boston College,2017-03-01,W,82,66
+1623,Notre Dame,Louisville,2017-03-04,L,64,71
+1624,Notre Dame,Virginia,2017-03-09,W,71,58
+1625,Notre Dame,Florida State,2017-03-10,W,77,73
+1626,Notre Dame,Duke,2017-03-11,L,69,75
+1627,Princeton,Brigham Young,2016-11-14,L,73,82
+1628,Princeton,Lehigh,2016-11-20,L,67,76
+1629,Princeton,Lafayette,2016-11-23,W,71,55
+1630,Princeton,Rowan,2016-11-25,W,108,46
+1631,Princeton,Virginia Commonwealth,2016-11-29,L,70,81
+1632,Princeton,University of California,2016-12-06,L,51,62
+1633,Princeton,Hawaii,2016-12-07,W,75,62
+1634,Princeton,Liberty,2016-12-10,W,67,64
+1635,Princeton,Saint Joseph's,2016-12-14,L,68,76
+1636,Princeton,Monmouth,2016-12-20,L,90,96
+1637,Princeton,Bucknell,2016-12-22,W,72,70
+1638,Princeton,Hampton,2016-12-28,W,77,49
+1639,Princeton,Cal Poly,2016-12-31,W,81,52
+1640,Princeton,Pennsylvania,2017-01-07,W,61,52
+1641,Princeton,Brown,2017-01-13,W,97,66
+1642,Princeton,Yale,2017-01-14,W,66,58
+1643,Princeton,Dartmouth,2017-02-03,W,69,64
+1644,Princeton,Harvard,2017-02-04,W,57,56
+1645,Princeton,Pennsylvania,2017-02-07,W,64,49
+1646,Princeton,Cornell,2017-02-10,W,69,60
+1647,Princeton,Columbia,2017-02-11,W,61,59
+1648,Princeton,Yale,2017-02-17,W,71,52
+1649,Princeton,Brown,2017-02-18,W,66,51
+1650,Princeton,Columbia,2017-02-24,W,64,45
+1651,Princeton,Cornell,2017-02-25,W,75,60
+1652,Princeton,Harvard,2017-03-03,W,73,69
+1653,Princeton,Dartmouth,2017-03-04,W,85,48
+1654,Princeton,Pennsylvania,2017-03-11,W,72,64
+1655,Princeton,Yale,2017-03-12,W,71,59
+1656,West Virginia,Mount St. Mary's,2016-11-11,W,87,59
+1657,West Virginia,Mississippi Valley State,2016-11-14,W,107,66
+1658,West Virginia,New Hampshire,2016-11-20,W,100,41
+1659,West Virginia,Illinois,2016-11-24,W,89,57
+1660,West Virginia,Temple,2016-11-25,L,77,81
+1661,West Virginia,Manhattan,2016-11-28,W,108,61
+1662,West Virginia,Virginia,2016-12-03,W,66,57
+1663,West Virginia,Western Carolina,2016-12-07,W,90,37
+1664,West Virginia,Virginia Military Institute,2016-12-10,W,90,55
+1665,West Virginia,Missouri-Kansas City,2016-12-17,W,112,67
+1666,West Virginia,Radford,2016-12-20,W,84,57
+1667,West Virginia,Northern Kentucky,2016-12-23,W,92,61
+1668,West Virginia,Oklahoma State,2016-12-30,W,92,75
+1669,West Virginia,Texas Tech,2017-01-03,L,76,77
+1670,West Virginia,Texas Christian,2017-01-07,W,82,70
+1671,West Virginia,Baylor,2017-01-10,W,89,68
+1672,West Virginia,Texas,2017-01-14,W,74,72
+1673,West Virginia,Oklahoma,2017-01-18,L,87,89
+1674,West Virginia,Kansas State,2017-01-21,L,75,79
+1675,West Virginia,Kansas,2017-01-24,W,85,69
+1676,West Virginia,Texas A&M,2017-01-28,W,81,77
+1677,West Virginia,Iowa State,2017-01-31,W,85,72
+1678,West Virginia,Oklahoma State,2017-02-04,L,75,82
+1679,West Virginia,Oklahoma,2017-02-08,W,61,50
+1680,West Virginia,Kansas State,2017-02-11,W,85,66
+1681,West Virginia,Kansas,2017-02-13,L,80,84
+1682,West Virginia,Texas Tech,2017-02-18,W,83,74
+1683,West Virginia,Texas,2017-02-20,W,77,62
+1684,West Virginia,Texas Christian,2017-02-25,W,61,60
+1685,West Virginia,Baylor,2017-02-27,L,62,71
+1686,West Virginia,Iowa State,2017-03-03,W,87,76
+1687,West Virginia,Texas,2017-03-09,W,63,53
+1688,West Virginia,Kansas State,2017-03-10,W,51,50
+1689,West Virginia,Iowa State,2017-03-11,L,74,80
+1690,Bucknell,Manhattan,2016-11-11,W,76,64
+1691,Bucknell,Wake Forest,2016-11-13,L,74,94
+1692,Bucknell,Robert Morris,2016-11-16,W,75,62
+1693,Bucknell,Butler,2016-11-19,L,60,86
+1694,Bucknell,Vanderbilt,2016-11-21,W,75,72
+1695,Bucknell,Norfolk State,2016-11-24,W,84,58
+1696,Bucknell,Northern Colorado,2016-11-25,W,75,63
+1697,Bucknell,Richmond,2016-11-30,W,73,68
+1698,Bucknell,La Salle,2016-12-03,L,73,83
+1699,Bucknell,Fairfield,2016-12-06,W,75,64
+1700,Bucknell,Siena,2016-12-17,L,68,71
+1701,Bucknell,Mount St. Mary's,2016-12-19,W,81,65
+1702,Bucknell,Princeton,2016-12-22,L,70,72
+1703,Bucknell,Navy,2016-12-30,W,59,55
+1704,Bucknell,Army,2017-01-02,W,84,76
+1705,Bucknell,American,2017-01-05,W,69,60
+1706,Bucknell,Holy Cross,2017-01-08,W,68,49
+1707,Bucknell,Lehigh,2017-01-11,L,71,82
+1708,Bucknell,Colgate,2017-01-14,W,83,69
+1709,Bucknell,Loyola (MD),2017-01-18,W,76,63
+1710,Bucknell,Boston University,2017-01-21,W,70,59
+1711,Bucknell,Lafayette,2017-01-25,W,78,55
+1712,Bucknell,Army,2017-01-28,W,96,75
+1713,Bucknell,American,2017-02-01,W,80,60
+1714,Bucknell,Holy Cross,2017-02-06,W,82,68
+1715,Bucknell,Lehigh,2017-02-08,L,71,79
+1716,Bucknell,Colgate,2017-02-13,W,75,58
+1717,Bucknell,Loyola (MD),2017-02-15,L,77,78
+1718,Bucknell,Boston University,2017-02-19,W,86,66
+1719,Bucknell,Lafayette,2017-02-22,W,94,64
+1720,Bucknell,Navy,2017-02-25,W,82,60
+1721,Bucknell,Army,2017-03-02,W,78,62
+1722,Bucknell,Navy,2017-03-05,W,70,65
+1723,Bucknell,Lehigh,2017-03-08,W,81,65
+1724,Maryland,American,2016-11-11,W,62,56
+1725,Maryland,Georgetown,2016-11-15,W,76,75
+1726,Maryland,St. Mary's (MD),2016-11-17,W,93,45
+1727,Maryland,Towson,2016-11-20,W,71,66
+1728,Maryland,Stony Brook,2016-11-22,W,77,63
+1729,Maryland,Richmond,2016-11-25,W,88,82
+1730,Maryland,Kansas State,2016-11-26,W,69,68
+1731,Maryland,Pittsburgh,2016-11-29,L,59,73
+1732,Maryland,Oklahoma State,2016-12-03,W,71,70
+1733,Maryland,Howard,2016-12-07,W,79,56
+1734,Maryland,Saint Peter's,2016-12-10,W,66,56
+1735,Maryland,Jacksonville State,2016-12-12,W,92,66
+1736,Maryland,Charlotte,2016-12-20,W,88,72
+1737,Maryland,Illinois,2016-12-27,W,84,59
+1738,Maryland,Nebraska,2017-01-01,L,65,67
+1739,Maryland,Michigan,2017-01-07,W,77,70
+1740,Maryland,Indiana,2017-01-10,W,75,72
+1741,Maryland,Illinois,2017-01-14,W,62,56
+1742,Maryland,Iowa,2017-01-19,W,84,76
+1743,Maryland,Rutgers,2017-01-24,W,67,55
+1744,Maryland,Minnesota,2017-01-28,W,85,78
+1745,Maryland,Ohio State,2017-01-31,W,77,71
+1746,Maryland,Purdue,2017-02-04,L,72,73
+1747,Maryland,Penn State,2017-02-07,L,64,70
+1748,Maryland,Ohio State,2017-02-11,W,86,77
+1749,Maryland,Northwestern,2017-02-15,W,74,64
+1750,Maryland,Wisconsin,2017-02-19,L,60,71
+1751,Maryland,Minnesota,2017-02-22,L,75,89
+1752,Maryland,Iowa,2017-02-25,L,69,83
+1753,Maryland,Rutgers,2017-02-28,W,79,59
+1754,Maryland,Michigan State,2017-03-04,W,63,60
+1755,Maryland,Northwestern,2017-03-10,L,64,72
+1756,Xavier,Lehigh,2016-11-11,W,84,81
+1757,Xavier,Buffalo,2016-11-14,W,86,53
+1758,Xavier,Missouri,2016-11-17,W,83,82
+1759,Xavier,Clemson,2016-11-18,W,83,77
+1760,Xavier,Northern Iowa,2016-11-20,W,67,59
+1761,Xavier,Northern Iowa,2016-11-26,W,64,42
+1762,Xavier,North Dakota State,2016-11-29,W,85,55
+1763,Xavier,Baylor,2016-12-03,L,61,76
+1764,Xavier,Colorado,2016-12-07,L,66,68
+1765,Xavier,Utah,2016-12-10,W,77,69
+1766,Xavier,Wake Forest,2016-12-17,W,69,65
+1767,Xavier,Eastern Washington,2016-12-20,W,85,56
+1768,Xavier,Providence,2016-12-28,W,82,56
+1769,Xavier,Georgetown,2016-12-31,W,81,76
+1770,Xavier,St. John's (NY),2017-01-07,W,97,82
+1771,Xavier,Villanova,2017-01-10,L,54,79
+1772,Xavier,Butler,2017-01-14,L,78,83
+1773,Xavier,Creighton,2017-01-16,L,67,72
+1774,Xavier,Georgetown,2017-01-22,W,86,75
+1775,Xavier,Cincinnati,2017-01-26,L,78,86
+1776,Xavier,St. John's (NY),2017-01-29,W,82,77
+1777,Xavier,Seton Hall,2017-02-01,W,72,70
+1778,Xavier,Creighton,2017-02-04,W,82,80
+1779,Xavier,DePaul,2017-02-08,W,72,61
+1780,Xavier,Villanova,2017-02-11,L,57,73
+1781,Xavier,Providence,2017-02-15,L,63,75
+1782,Xavier,Marquette,2017-02-18,L,61,83
+1783,Xavier,Seton Hall,2017-02-22,L,64,71
+1784,Xavier,Butler,2017-02-26,L,79,88
+1785,Xavier,Marquette,2017-03-01,L,84,95
+1786,Xavier,DePaul,2017-03-04,W,79,65
+1787,Xavier,DePaul,2017-03-08,W,75,64
+1788,Xavier,Butler,2017-03-09,W,62,57
+1789,Xavier,Creighton,2017-03-10,L,72,75
+1790,Florida State,Charleston Southern,2016-11-12,W,88,67
+1791,Florida State,Iona,2016-11-15,W,99,78
+1792,Florida State,Winthrop,2016-11-18,W,100,86
+1793,Florida State,Detroit Mercy,2016-11-20,W,100,71
+1794,Florida State,Temple,2016-11-24,L,86,89
+1795,Florida State,Illinois,2016-11-25,W,72,61
+1796,Florida State,Minnesota,2016-11-28,W,75,67
+1797,Florida State,George Washington,2016-12-04,W,67,48
+1798,Florida State,Southern Mississippi,2016-12-06,W,98,49
+1799,Florida State,Nicholls State,2016-12-08,W,118,63
+1800,Florida State,Florida,2016-12-11,W,83,78
+1801,Florida State,Manhattan,2016-12-17,W,83,67
+1802,Florida State,Samford,2016-12-19,W,76,68
+1803,Florida State,Wake Forest,2016-12-28,W,88,72
+1804,Florida State,Virginia,2016-12-31,W,60,58
+1805,Florida State,Virginia Tech,2017-01-07,W,93,78
+1806,Florida State,Duke,2017-01-10,W,88,72
+1807,Florida State,North Carolina,2017-01-14,L,83,96
+1808,Florida State,Notre Dame,2017-01-18,W,83,80
+1809,Florida State,Louisville,2017-01-21,W,73,68
+1810,Florida State,Georgia Tech,2017-01-25,L,56,78
+1811,Florida State,Syracuse,2017-01-28,L,72,82
+1812,Florida State,Miami (FL),2017-02-01,W,75,57
+1813,Florida State,Clemson,2017-02-05,W,109,61
+1814,Florida State,North Carolina State,2017-02-08,W,95,71
+1815,Florida State,Notre Dame,2017-02-11,L,72,84
+1816,Florida State,Pittsburgh,2017-02-18,L,66,80
+1817,Florida State,Boston College,2017-02-20,W,104,72
+1818,Florida State,Clemson,2017-02-25,W,76,74
+1819,Florida State,Duke,2017-02-28,L,70,75
+1820,Florida State,Miami (FL),2017-03-04,W,66,57
+1821,Florida State,Virginia Tech,2017-03-09,W,74,68
+1822,Florida State,Notre Dame,2017-03-10,L,73,77
+1823,Florida Gulf Coast,Florida,2016-11-11,L,59,80
+1824,Florida Gulf Coast,Texas-Arlington,2016-11-16,W,85,72
+1825,Florida Gulf Coast,Baylor,2016-11-18,L,72,81
+1826,Florida Gulf Coast,Michigan State,2016-11-20,L,77,78
+1827,Florida Gulf Coast,Binghamton,2016-11-23,W,69,53
+1828,Florida Gulf Coast,Long Beach State,2016-11-25,W,68,67
+1829,Florida Gulf Coast,Ave Maria,2016-11-29,W,120,60
+1830,Florida Gulf Coast,Georgia Southern,2016-12-04,W,85,82
+1831,Florida Gulf Coast,Siena,2016-12-09,W,73,69
+1832,Florida Gulf Coast,Florida International,2016-12-11,W,82,63
+1833,Florida Gulf Coast,Georgia Southern,2016-12-13,L,59,72
+1834,Florida Gulf Coast,La Salle,2016-12-17,L,80,84
+1835,Florida Gulf Coast,Louisiana Tech,2016-12-20,W,79,78
+1836,Florida Gulf Coast,Florida National University,2016-12-22,W,107,50
+1837,Florida Gulf Coast,Florida Atlantic,2016-12-28,W,75,62
+1838,Florida Gulf Coast,Florida Tech,2016-12-31,W,101,49
+1839,Florida Gulf Coast,Stetson,2017-01-07,W,89,88
+1840,Florida Gulf Coast,Kennesaw State,2017-01-12,W,78,75
+1841,Florida Gulf Coast,Lipscomb,2017-01-14,W,84,80
+1842,Florida Gulf Coast,South Carolina Upstate,2017-01-19,L,60,62
+1843,Florida Gulf Coast,NJIT,2017-01-21,W,84,71
+1844,Florida Gulf Coast,North Florida,2017-01-25,W,86,82
+1845,Florida Gulf Coast,Jacksonville,2017-01-28,W,78,56
+1846,Florida Gulf Coast,North Florida,2017-01-30,W,74,59
+1847,Florida Gulf Coast,Jacksonville,2017-02-04,W,67,57
+1848,Florida Gulf Coast,Lipscomb,2017-02-09,L,60,65
+1849,Florida Gulf Coast,Kennesaw State,2017-02-11,W,75,63
+1850,Florida Gulf Coast,NJIT,2017-02-16,W,80,73
+1851,Florida Gulf Coast,South Carolina Upstate,2017-02-18,W,97,89
+1852,Florida Gulf Coast,Stetson,2017-02-23,W,80,70
+1853,Florida Gulf Coast,Stetson,2017-02-27,W,87,57
+1854,Florida Gulf Coast,Kennesaw State,2017-03-02,W,74,62
+1855,Florida Gulf Coast,North Florida,2017-03-05,W,77,61
+1856,Saint Mary's (CA),Nevada,2016-11-11,W,81,63
+1857,Saint Mary's (CA),Prairie View,2016-11-16,W,110,72
+1858,Saint Mary's (CA),Dayton,2016-11-19,W,61,57
+1859,Saint Mary's (CA),San Jose State,2016-11-22,W,81,64
+1860,Saint Mary's (CA),Alabama-Birmingham,2016-11-27,W,76,63
+1861,Saint Mary's (CA),Stanford,2016-11-30,W,66,51
+1862,Saint Mary's (CA),Texas-Arlington,2016-12-08,L,51,65
+1863,Saint Mary's (CA),UC-Irvine,2016-12-11,W,84,53
+1864,Saint Mary's (CA),Western Kentucky,2016-12-14,W,73,51
+1865,Saint Mary's (CA),Texas A&M-Corpus Christi,2016-12-20,W,67,46
+1866,Saint Mary's (CA),South Carolina State,2016-12-22,W,74,47
+1867,Saint Mary's (CA),Loyola Marymount,2016-12-29,W,72,60
+1868,Saint Mary's (CA),San Diego,2016-12-31,W,72,60
+1869,Saint Mary's (CA),Brigham Young,2017-01-05,W,81,68
+1870,Saint Mary's (CA),San Francisco,2017-01-07,W,63,52
+1871,Saint Mary's (CA),Portland,2017-01-12,W,74,33
+1872,Saint Mary's (CA),Gonzaga,2017-01-14,L,56,79
+1873,Saint Mary's (CA),Pacific,2017-01-19,W,62,50
+1874,Saint Mary's (CA),Pepperdine,2017-01-21,W,85,65
+1875,Saint Mary's (CA),San Francisco,2017-01-26,W,66,46
+1876,Saint Mary's (CA),Santa Clara,2017-01-28,W,72,59
+1877,Saint Mary's (CA),Pacific,2017-02-02,W,74,70
+1878,Saint Mary's (CA),San Diego,2017-02-04,W,71,27
+1879,Saint Mary's (CA),Portland,2017-02-09,W,51,41
+1880,Saint Mary's (CA),Gonzaga,2017-02-11,L,64,74
+1881,Saint Mary's (CA),Loyola Marymount,2017-02-16,W,81,48
+1882,Saint Mary's (CA),Brigham Young,2017-02-18,W,70,57
+1883,Saint Mary's (CA),Pepperdine,2017-02-23,W,78,49
+1884,Saint Mary's (CA),Santa Clara,2017-02-25,W,70,56
+1885,Saint Mary's (CA),Portland,2017-03-04,W,81,58
+1886,Saint Mary's (CA),Brigham Young,2017-03-06,W,81,50
+1887,Saint Mary's (CA),Gonzaga,2017-03-07,L,56,74
+1888,VCU,North Carolina-Asheville,2016-11-11,W,80,65
+1889,VCU,Liberty,2016-11-15,W,64,59
+1890,VCU,Binghamton,2016-11-18,W,81,42
+1891,VCU,Baylor,2016-11-23,L,63,71
+1892,VCU,St. John's (NY),2016-11-24,W,75,69
+1893,VCU,Louisiana State,2016-11-25,W,85,74
+1894,VCU,Princeton,2016-11-29,W,81,70
+1895,VCU,Illinois,2016-12-03,L,46,64
+1896,VCU,Georgia Tech,2016-12-07,L,73,76
+1897,VCU,Old Dominion,2016-12-10,W,67,64
+1898,VCU,Middle Tennessee,2016-12-17,W,80,77
+1899,VCU,Louisiana-Monroe,2016-12-22,W,78,65
+1900,VCU,Howard,2016-12-27,W,85,51
+1901,VCU,George Mason,2016-12-30,W,73,64
+1902,VCU,Duquesne,2017-01-04,W,94,87
+1903,VCU,Massachusetts,2017-01-07,W,81,64
+1904,VCU,George Washington,2017-01-11,W,85,55
+1905,VCU,Davidson,2017-01-14,L,63,69
+1906,VCU,Fordham,2017-01-18,L,67,69
+1907,VCU,La Salle,2017-01-22,W,90,52
+1908,VCU,Dayton,2017-01-27,W,73,68
+1909,VCU,Richmond,2017-02-01,W,81,74
+1910,VCU,St. Bonaventure,2017-02-04,W,83,77
+1911,VCU,George Washington,2017-02-08,W,54,53
+1912,VCU,Davidson,2017-02-11,W,74,60
+1913,VCU,Saint Joseph's,2017-02-14,W,91,81
+1914,VCU,Richmond,2017-02-17,W,84,73
+1915,VCU,Saint Louis,2017-02-22,W,64,50
+1916,VCU,Rhode Island,2017-02-25,L,59,69
+1917,VCU,Dayton,2017-03-01,L,72,79
+1918,VCU,George Mason,2017-03-04,W,72,60
+1919,VCU,George Mason,2017-03-10,W,71,60
+1920,VCU,Richmond,2017-03-11,W,87,77
+1921,VCU,Rhode Island,2017-03-12,L,63,70
+1922,Arizona,Michigan State,2016-11-11,W,65,63
+1923,Arizona,Cal State Bakersfield,2016-11-15,W,78,66
+1924,Arizona,Sacred Heart,2016-11-18,W,95,65
+1925,Arizona,Northern Colorado,2016-11-21,W,71,55
+1926,Arizona,Santa Clara,2016-11-24,W,69,61
+1927,Arizona,Butler,2016-11-25,L,65,69
+1928,Arizona,Texas Southern,2016-11-30,W,85,63
+1929,Arizona,Gonzaga,2016-12-03,L,62,69
+1930,Arizona,UC-Irvine,2016-12-06,W,79,57
+1931,Arizona,Missouri,2016-12-10,W,79,60
+1932,Arizona,Grand Canyon,2016-12-14,W,64,54
+1933,Arizona,Texas A&M,2016-12-17,W,67,63
+1934,Arizona,New Mexico,2016-12-20,W,77,46
+1935,Arizona,University of California,2016-12-30,W,67,62
+1936,Arizona,Stanford,2017-01-01,W,91,52
+1937,Arizona,Utah,2017-01-05,W,66,56
+1938,Arizona,Colorado,2017-01-07,W,82,73
+1939,Arizona,Arizona State,2017-01-12,W,91,75
+1940,Arizona,Southern California,2017-01-19,W,73,66
+1941,Arizona,UCLA,2017-01-21,W,96,85
+1942,Arizona,Washington State,2017-01-26,W,79,62
+1943,Arizona,Washington,2017-01-29,W,77,66
+1944,Arizona,Oregon State,2017-02-02,W,71,54
+1945,Arizona,Oregon,2017-02-04,L,58,85
+1946,Arizona,Stanford,2017-02-08,W,74,67
+1947,Arizona,University of California,2017-02-11,W,62,57
+1948,Arizona,Washington State,2017-02-16,W,78,59
+1949,Arizona,Washington,2017-02-18,W,76,68
+1950,Arizona,Southern California,2017-02-23,W,90,77
+1951,Arizona,UCLA,2017-02-25,L,72,77
+1952,Arizona,Arizona State,2017-03-04,W,73,60
+1953,Arizona,Colorado,2017-03-09,W,92,78
+1954,Arizona,UCLA,2017-03-10,W,86,75
+1955,Arizona,Oregon,2017-03-11,W,83,80
+1956,North Dakota,Crown College,2016-11-11,W,98,48
+1957,North Dakota,Mayville State,2016-11-15,W,94,66
+1958,North Dakota,Presentation College,2016-11-20,W,101,63
+1959,North Dakota,North Florida,2016-11-25,L,75,76
+1960,North Dakota,Wright State,2016-11-26,L,79,83
+1961,North Dakota,Cal State Bakersfield,2016-11-27,W,57,55
+1962,North Dakota,North Dakota State,2016-12-07,W,74,56
+1963,North Dakota,Northern Iowa,2016-12-10,L,70,78
+1964,North Dakota,North Dakota State,2016-12-16,L,70,87
+1965,North Dakota,Iowa,2016-12-20,L,73,84
+1966,North Dakota,Portland State,2016-12-29,L,62,99
+1967,North Dakota,Sacramento State,2016-12-31,W,90,82
+1968,North Dakota,Northern Arizona,2017-01-05,W,68,63
+1969,North Dakota,Southern Utah,2017-01-07,W,95,65
+1970,North Dakota,Montana State,2017-01-12,W,90,85
+1971,North Dakota,Montana,2017-01-14,L,70,76
+1972,North Dakota,Weber State,2017-01-19,W,83,77
+1973,North Dakota,Idaho State,2017-01-21,W,89,64
+1974,North Dakota,Southern Utah,2017-01-26,W,91,89
+1975,North Dakota,Northern Arizona,2017-01-28,L,67,68
+1976,North Dakota,Northern Colorado,2017-02-04,W,87,77
+1977,North Dakota,Eastern Washington,2017-02-09,W,95,86
+1978,North Dakota,Idaho,2017-02-11,W,88,65
+1979,North Dakota,Idaho State,2017-02-16,W,77,61
+1980,North Dakota,Weber State,2017-02-18,W,77,68
+1981,North Dakota,Northern Colorado,2017-02-25,W,84,81
+1982,North Dakota,Sacramento State,2017-03-02,L,53,57
+1983,North Dakota,Portland State,2017-03-04,W,82,73
+1984,North Dakota,Portland State,2017-03-09,W,95,72
+1985,North Dakota,Idaho,2017-03-10,W,69,64
+1986,North Dakota,Weber State,2017-03-11,W,93,89

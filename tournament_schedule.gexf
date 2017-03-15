@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="Dayton" label="Dayton" />
+      <node id="Winthrop" label="Winthrop" />
+      <node id="Gonzaga" label="Gonzaga" />
+      <node id="Marquette" label="Marquette" />
+      <node id="Rhode Island" label="Rhode Island" />
+      <node id="Oregon" label="Oregon" />
+      <node id="Purdue" label="Purdue" />
+      <node id="Xavier" label="Xavier" />
+      <node id="Texas Southern" label="Texas Southern" />
+      <node id="Northern Kentucky" label="Northern Kentucky" />
+      <node id="Arkansas" label="Arkansas" />
+      <node id="Virginia Tech" label="Virginia Tech" />
+      <node id="Princeton" label="Princeton" />
+      <node id="Michigan" label="Michigan" />
+      <node id="Florida" label="Florida" />
+      <node id="Florida State" label="Florida State" />
+      <node id="South Carolina" label="South Carolina" />
+      <node id="Seton Hall" label="Seton Hall" />
+      <node id="Cincinnati" label="Cincinnati" />
+      <node id="Bucknell" label="Bucknell" />
+      <node id="ETSU" label="ETSU" />
+      <node id="Florida Gulf Coast" label="Florida Gulf Coast" />
+      <node id="North Carolina-Wilmington" label="North Carolina-Wilmington" />
+      <node id="Wichita State" label="Wichita State" />
+      <node id="West Virginia" label="West Virginia" />
+      <node id="Iona" label="Iona" />
+      <node id="Virginia" label="Virginia" />
+      <node id="Arizona" label="Arizona" />
+      <node id="Nevada" label="Nevada" />
+      <node id="Jacksonville State" label="Jacksonville State" />
+      <node id="Notre Dame" label="Notre Dame" />
+      <node id="Wisconsin" label="Wisconsin" />
+      <node id="Duke" label="Duke" />
+      <node id="Vermont" label="Vermont" />
+      <node id="UCLA" label="UCLA" />
+      <node id="Kentucky" label="Kentucky" />
+      <node id="Villanova" label="Villanova" />
+      <node id="VCU" label="VCU" />
+      <node id="Minnesota" label="Minnesota" />
+      <node id="UNC" label="UNC" />
+      <node id="Miami (FL)" label="Miami (FL)" />
+      <node id="Michigan State" label="Michigan State" />
+      <node id="Oklahoma State" label="Oklahoma State" />
+      <node id="Kansas" label="Kansas" />
+      <node id="Creighton" label="Creighton" />
+      <node id="Iowa State" label="Iowa State" />
+      <node id="South Dakota State" label="South Dakota State" />
+      <node id="Northwestern" label="Northwestern" />
+      <node id="Middle Tennessee" label="Middle Tennessee" />
+      <node id="Saint Mary's (CA)" label="Saint Mary's (CA)" />
+      <node id="Vanderbilt" label="Vanderbilt" />
+      <node id="Butler" label="Butler" />
+      <node id="Louisville" label="Louisville" />
+      <node id="SMU" label="SMU" />
+      <node id="Maryland" label="Maryland" />
+      <node id="Baylor" label="Baylor" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Dayton" target="Winthrop" weight="16" />
+      <edge id="1" source="Dayton" target="Rhode Island" weight="4" />
+      <edge id="2" source="Dayton" target="Vanderbilt" weight="5" />
+      <edge id="3" source="Winthrop" target="Florida State" weight="14" />
+      <edge id="4" source="Gonzaga" target="Arizona" weight="7" />
+      <edge id="5" source="Gonzaga" target="Saint Mary's (CA)" weight="51" />
+      <edge id="6" source="Gonzaga" target="Florida" weight="5" />
+      <edge id="7" source="Gonzaga" target="Iowa State" weight="2" />
+      <edge id="8" source="Marquette" target="Creighton" weight="8" />
+      <edge id="9" source="Marquette" target="Seton Hall" weight="3" />
+      <edge id="10" source="Marquette" target="Villanova" weight="2" />
+      <edge id="11" source="Marquette" target="Vanderbilt" weight="24" />
+      <edge id="12" source="Marquette" target="Xavier" weight="33" />
+      <edge id="13" source="Rhode Island" target="Cincinnati" weight="5" />
+      <edge id="14" source="Oregon" target="UCLA" weight="2" />
+      <edge id="15" source="Oregon" target="Arizona" weight="27" />
+      <edge id="16" source="Purdue" target="Michigan State" weight="28" />
+      <edge id="17" source="Purdue" target="Notre Dame" weight="5" />
+      <edge id="18" source="Purdue" target="Northwestern" weight="25" />
+      <edge id="19" source="Purdue" target="Wisconsin" weight="11" />
+      <edge id="20" source="Purdue" target="Maryland" weight="1" />
+      <edge id="21" source="Xavier" target="Seton Hall" weight="2" />
+      <edge id="22" source="Xavier" target="Creighton" weight="2" />
+      <edge id="23" source="Xavier" target="Butler" weight="5" />
+      <edge id="24" source="Texas Southern" target="Louisville" weight="31" />
+      <edge id="25" source="Arkansas" target="Vanderbilt" weight="15" />
+      <edge id="26" source="Arkansas" target="South Carolina" weight="7" />
+      <edge id="27" source="Virginia Tech" target="Virginia" weight="2" />
+      <edge id="28" source="Virginia Tech" target="Michigan" weight="3" />
+      <edge id="29" source="Virginia Tech" target="Miami (FL)" weight="5" />
+      <edge id="30" source="Virginia Tech" target="Duke" weight="14" />
+      <edge id="31" source="Princeton" target="Bucknell" weight="2" />
+      <edge id="32" source="Michigan" target="Michigan State" weight="29" />
+      <edge id="33" source="Michigan" target="Purdue" weight="16" />
+      <edge id="34" source="Michigan" target="Marquette" weight="18" />
+      <edge id="35" source="Michigan" target="UCLA" weight="18" />
+      <edge id="36" source="Michigan" target="Wisconsin" weight="21" />
+      <edge id="37" source="Michigan" target="Minnesota" weight="7" />
+      <edge id="38" source="Florida" target="Miami (FL)" weight="9" />
+      <edge id="39" source="Florida" target="Seton Hall" weight="5" />
+      <edge id="40" source="Florida" target="Florida Gulf Coast" weight="21" />
+      <edge id="41" source="Florida" target="South Carolina" weight="15" />
+      <edge id="42" source="Florida" target="Kentucky" weight="22" />
+      <edge id="43" source="Florida" target="Arkansas" weight="22" />
+      <edge id="44" source="Florida State" target="Virginia" weight="2" />
+      <edge id="45" source="Florida State" target="Florida" weight="5" />
+      <edge id="46" source="Florida State" target="Miami (FL)" weight="27" />
+      <edge id="47" source="Florida State" target="Louisville" weight="5" />
+      <edge id="48" source="Florida State" target="Duke" weight="16" />
+      <edge id="49" source="Florida State" target="Notre Dame" weight="3" />
+      <edge id="50" source="Florida State" target="Virginia Tech" weight="21" />
+      <edge id="51" source="Florida State" target="Iona" weight="21" />
+      <edge id="52" source="Florida State" target="Minnesota" weight="8" />
+      <edge id="53" source="South Carolina" target="Vermont" weight="18" />
+      <edge id="54" source="South Carolina" target="Michigan" weight="15" />
+      <edge id="55" source="South Carolina" target="Florida" weight="4" />
+      <edge id="56" source="Seton Hall" target="Marquette" weight="9" />
+      <edge id="57" source="Seton Hall" target="Butler" weight="6" />
+      <edge id="58" source="Seton Hall" target="Xavier" weight="7" />
+      <edge id="59" source="Seton Hall" target="Creighton" weight="6" />
+      <edge id="60" source="Seton Hall" target="South Carolina" weight="3" />
+      <edge id="61" source="Cincinnati" target="Xavier" weight="8" />
+      <edge id="62" source="Cincinnati" target="Iowa State" weight="1" />
+      <edge id="63" source="Cincinnati" target="Texas Southern" weight="38" />
+      <edge id="64" source="Bucknell" target="Vanderbilt" weight="3" />
+      <edge id="65" source="ETSU" target="South Dakota State" weight="12" />
+      <edge id="66" source="Wichita State" target="South Dakota State" weight="22" />
+      <edge id="67" source="West Virginia" target="Virginia" weight="9" />
+      <edge id="68" source="West Virginia" target="Oklahoma State" weight="17" />
+      <edge id="69" source="West Virginia" target="Kansas" weight="16" />
+      <edge id="70" source="West Virginia" target="Iowa State" weight="24" />
+      <edge id="71" source="West Virginia" target="Baylor" weight="21" />
+      <edge id="72" source="West Virginia" target="Northern Kentucky" weight="31" />
+      <edge id="73" source="Iona" target="Nevada" weight="2" />
+      <edge id="74" source="Virginia" target="Louisville" weight="24" />
+      <edge id="75" source="Virginia" target="Notre Dame" weight="17" />
+      <edge id="76" source="Virginia" target="Virginia Tech" weight="23" />
+      <edge id="77" source="Arizona" target="Oregon" weight="3" />
+      <edge id="78" source="Arizona" target="Michigan State" weight="2" />
+      <edge id="79" source="Arizona" target="UCLA" weight="22" />
+      <edge id="80" source="Arizona" target="Texas Southern" weight="22" />
+      <edge id="81" source="Nevada" target="Iona" weight="15" />
+      <edge id="82" source="Notre Dame" target="Louisville" weight="7" />
+      <edge id="83" source="Notre Dame" target="Florida State" weight="16" />
+      <edge id="84" source="Notre Dame" target="Miami (FL)" weight="5" />
+      <edge id="85" source="Notre Dame" target="Northwestern" weight="4" />
+      <edge id="86" source="Notre Dame" target="Virginia Tech" weight="5" />
+      <edge id="87" source="Notre Dame" target="Virginia" weight="13" />
+      <edge id="88" source="Wisconsin" target="Marquette" weight="9" />
+      <edge id="89" source="Wisconsin" target="Maryland" weight="11" />
+      <edge id="90" source="Wisconsin" target="Michigan" weight="4" />
+      <edge id="91" source="Wisconsin" target="Northwestern" weight="28" />
+      <edge id="92" source="Wisconsin" target="Minnesota" weight="19" />
+      <edge id="93" source="Duke" target="Miami (FL)" weight="12" />
+      <edge id="94" source="Duke" target="Michigan State" weight="9" />
+      <edge id="95" source="Duke" target="Louisville" weight="4" />
+      <edge id="96" source="Duke" target="Florida" weight="10" />
+      <edge id="97" source="Duke" target="Florida State" weight="5" />
+      <edge id="98" source="Duke" target="Virginia" weight="10" />
+      <edge id="99" source="Duke" target="Rhode Island" weight="10" />
+      <edge id="100" source="Duke" target="Notre Dame" weight="16" />
+      <edge id="101" source="UCLA" target="Oregon" weight="3" />
+      <edge id="102" source="UCLA" target="Kentucky" weight="5" />
+      <edge id="103" source="UCLA" target="Arizona" weight="5" />
+      <edge id="104" source="Kentucky" target="Michigan State" weight="21" />
+      <edge id="105" source="Kentucky" target="Arkansas" weight="43" />
+      <edge id="106" source="Kentucky" target="Florida" weight="10" />
+      <edge id="107" source="Kentucky" target="Vanderbilt" weight="12" />
+      <edge id="108" source="Kentucky" target="South Carolina" weight="16" />
+      <edge id="109" source="Villanova" target="Virginia" weight="2" />
+      <edge id="110" source="Villanova" target="Purdue" weight="3" />
+      <edge id="111" source="Villanova" target="Xavier" weight="41" />
+      <edge id="112" source="Villanova" target="Creighton" weight="26" />
+      <edge id="113" source="Villanova" target="Marquette" weight="12" />
+      <edge id="114" source="Villanova" target="Notre Dame" weight="8" />
+      <edge id="115" source="Villanova" target="Seton Hall" weight="54" />
+      <edge id="116" source="VCU" target="Middle Tennessee" weight="3" />
+      <edge id="117" source="VCU" target="Princeton" weight="11" />
+      <edge id="118" source="VCU" target="Dayton" weight="5" />
+      <edge id="119" source="Minnesota" target="Purdue" weight="9" />
+      <edge id="120" source="Minnesota" target="Michigan" weight="5" />
+      <edge id="121" source="Minnesota" target="Maryland" weight="14" />
+      <edge id="122" source="Minnesota" target="Northwestern" weight="4" />
+      <edge id="123" source="Minnesota" target="Arkansas" weight="14" />
+      <edge id="124" source="Minnesota" target="Michigan State" weight="5" />
+      <edge id="125" source="Minnesota" target="Vanderbilt" weight="4" />
+      <edge id="126" source="UNC" target="Virginia" weight="24" />
+      <edge id="127" source="UNC" target="Miami (FL)" weight="25" />
+      <edge id="128" source="UNC" target="Florida State" weight="13" />
+      <edge id="129" source="UNC" target="Louisville" weight="11" />
+      <edge id="130" source="UNC" target="Notre Dame" weight="7" />
+      <edge id="131" source="UNC" target="Virginia Tech" weight="19" />
+      <edge id="132" source="UNC" target="Wisconsin" weight="15" />
+      <edge id="133" source="UNC" target="Duke" weight="7" />
+      <edge id="134" source="Miami (FL)" target="Virginia" weight="6" />
+      <edge id="135" source="Miami (FL)" target="Virginia Tech" weight="6" />
+      <edge id="136" source="Miami (FL)" target="Duke" weight="5" />
+      <edge id="137" source="Michigan State" target="Michigan" weight="8" />
+      <edge id="138" source="Michigan State" target="Florida Gulf Coast" weight="1" />
+      <edge id="139" source="Michigan State" target="Northwestern" weight="9" />
+      <edge id="140" source="Michigan State" target="Wichita State" weight="5" />
+      <edge id="141" source="Michigan State" target="Wisconsin" weight="10" />
+      <edge id="142" source="Michigan State" target="Minnesota" weight="19" />
+      <edge id="143" source="Oklahoma State" target="Arkansas" weight="28" />
+      <edge id="144" source="Oklahoma State" target="West Virginia" weight="7" />
+      <edge id="145" source="Oklahoma State" target="Wichita State" weight="17" />
+      <edge id="146" source="Kansas" target="Oklahoma State" weight="12" />
+      <edge id="147" source="Kansas" target="Iowa State" weight="4" />
+      <edge id="148" source="Kansas" target="Baylor" weight="7" />
+      <edge id="149" source="Kansas" target="West Virginia" weight="4" />
+      <edge id="150" source="Kansas" target="Kentucky" weight="6" />
+      <edge id="151" source="Kansas" target="Duke" weight="2" />
+      <edge id="152" source="Creighton" target="Marquette" weight="8" />
+      <edge id="153" source="Creighton" target="Seton Hall" weight="14" />
+      <edge id="154" source="Creighton" target="Xavier" weight="8" />
+      <edge id="155" source="Creighton" target="Wisconsin" weight="12" />
+      <edge id="156" source="Creighton" target="Butler" weight="20" />
+      <edge id="157" source="Iowa State" target="Miami (FL)" weight="17" />
+      <edge id="158" source="Iowa State" target="West Virginia" weight="6" />
+      <edge id="159" source="Iowa State" target="Oklahoma State" weight="22" />
+      <edge id="160" source="Iowa State" target="Kansas" weight="3" />
+      <edge id="161" source="Iowa State" target="Baylor" weight="3" />
+      <edge id="162" source="Northwestern" target="Maryland" weight="8" />
+      <edge id="163" source="Northwestern" target="Michigan" weight="2" />
+      <edge id="164" source="Northwestern" target="Wisconsin" weight="7" />
+      <edge id="165" source="Northwestern" target="Dayton" weight="3" />
+      <edge id="166" source="Middle Tennessee" target="North Carolina-Wilmington" weight="5" />
+      <edge id="167" source="Middle Tennessee" target="Vanderbilt" weight="23" />
+      <edge id="168" source="Saint Mary's (CA)" target="Nevada" weight="18" />
+      <edge id="169" source="Saint Mary's (CA)" target="Dayton" weight="4" />
+      <edge id="170" source="Vanderbilt" target="Arkansas" weight="13" />
+      <edge id="171" source="Vanderbilt" target="Florida" weight="14" />
+      <edge id="172" source="Vanderbilt" target="Iowa State" weight="6" />
+      <edge id="173" source="Vanderbilt" target="South Carolina" weight="9" />
+      <edge id="174" source="Butler" target="Bucknell" weight="26" />
+      <edge id="175" source="Butler" target="Vermont" weight="12" />
+      <edge id="176" source="Butler" target="Seton Hall" weight="7" />
+      <edge id="177" source="Butler" target="Arizona" weight="4" />
+      <edge id="178" source="Butler" target="Xavier" weight="14" />
+      <edge id="179" source="Butler" target="Marquette" weight="11" />
+      <edge id="180" source="Butler" target="Northwestern" weight="2" />
+      <edge id="181" source="Butler" target="Cincinnati" weight="10" />
+      <edge id="182" source="Butler" target="Vanderbilt" weight="10" />
+      <edge id="183" source="Butler" target="Villanova" weight="16" />
+      <edge id="184" source="Louisville" target="Miami (FL)" weight="5" />
+      <edge id="185" source="Louisville" target="Purdue" weight="7" />
+      <edge id="186" source="Louisville" target="Notre Dame" weight="7" />
+      <edge id="187" source="Louisville" target="Kentucky" weight="3" />
+      <edge id="188" source="Louisville" target="Wichita State" weight="10" />
+      <edge id="189" source="Louisville" target="Virginia Tech" weight="4" />
+      <edge id="190" source="Louisville" target="Duke" weight="9" />
+      <edge id="191" source="SMU" target="Cincinnati" weight="9" />
+      <edge id="192" source="Maryland" target="Michigan State" weight="3" />
+      <edge id="193" source="Maryland" target="Oklahoma State" weight="1" />
+      <edge id="194" source="Maryland" target="Michigan" weight="7" />
+      <edge id="195" source="Maryland" target="Jacksonville State" weight="26" />
+      <edge id="196" source="Maryland" target="Northwestern" weight="10" />
+      <edge id="197" source="Maryland" target="Minnesota" weight="7" />
+      <edge id="198" source="Baylor" target="Oregon" weight="17" />
+      <edge id="199" source="Baylor" target="Michigan State" weight="15" />
+      <edge id="200" source="Baylor" target="Oklahoma State" weight="7" />
+      <edge id="201" source="Baylor" target="Iowa State" weight="2" />
+      <edge id="202" source="Baylor" target="Xavier" weight="15" />
+      <edge id="203" source="Baylor" target="Florida Gulf Coast" weight="9" />
+      <edge id="204" source="Baylor" target="Louisville" weight="3" />
+      <edge id="205" source="Baylor" target="West Virginia" weight="9" />
+      <edge id="206" source="Baylor" target="Texas Southern" weight="26" />
+    </edges>
+  </graph>
+</gexf>
